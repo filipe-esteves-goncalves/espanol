@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "7d1d689cc3835d21",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2b43558a497c282",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "093d19df51c6e11b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Books/Juego de tronos/Juego de tronos.canvas",
+                "viewState": {
+                  "x": 4398.5730374748955,
+                  "y": -275.6322415608788,
+                  "zoom": 0.3999999999999999
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Juego de tronos"
+            }
+          },
+          {
+            "id": "5df3458e2db989b8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Partes del cuerpo.canvas",
+                "viewState": {
+                  "x": -172.47336274553757,
+                  "y": -63.65629444369507,
+                  "zoom": 0.19999999999999996
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Partes del cuerpo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e958f155997832b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a2ea8de552d554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e71339b325d0b30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "668f521e7c9623f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cuer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "704ed7f48c664df4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8025b6638b33a2cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a628d089e92c7547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf017950909fb59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/Juego de tronos/Juego de tronos.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Juego de tronos"
+            }
+          },
+          {
+            "id": "a1860b4b60fb5501",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/Juego de tronos/Juego de tronos.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Juego de tronos"
+            }
+          },
+          {
+            "id": "5d7c2f562a9e22a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "71619ba38abc7c4e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3b1e75680d22b439",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/Juego de tronos/Juego de tronos.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Juego de tronos"
+            }
+          },
+          {
+            "id": "846998bd3947b58b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 434.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fdf017950909fb59",
+  "lastOpenFiles": [
+    "Books/Juego de tronos/Images/Mormont.png",
+    "images/Pasted image 20260627100947.png",
+    "images/Pasted image 20260627101536.png",
+    "images/Pasted image 20260627103825.png",
+    "images/Pasted image 20260627104020.png",
+    "Rueda de las emociones.canvas",
+    "Partes del cuerpo.canvas",
+    "images",
+    "Untitled",
+    "Books/Juego de tronos/Juego de tronos.canvas",
+    "Los Verbos.md",
+    "Questiones.md",
+    "Letras-Fonemas.md",
+    "Books/Juego de tronos/Images/Westeros.png",
+    "Books/Juego de tronos/Images",
+    "Books/Juego de tronos/Images/Maester Luwin.png",
+    "Books/Juego de tronos/Images/Bran Stark.png",
+    "Books/Juego de tronos/Images/Eddars Stark.png",
+    "Books/Juego de tronos/Images/family three.png",
+    "Books/Juego de tronos/family three.png.crdownload",
+    "Welcome.md",
+    "Books/Juego de tronos/old-valyria-with-cities-and-labelled.html",
+    "Books/Juego de tronos/old-valyria-with-cities-and-labelled.html.crdownload",
+    "Targeryan.png.crdownload",
+    "Books/Juego de tronos",
+    "Books"
+  ]
+}
