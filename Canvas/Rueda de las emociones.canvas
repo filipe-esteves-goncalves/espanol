@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"3872e00ca752a219","type":"file","file":"images/Emociones.png","x":0,"y":-201,"width":600,"height":601},
+		{"id":"3de1a239d7b18720","type":"file","file":"images/Emociones basico.png","x":660,"y":-201,"width":338,"height":601},
+		{"id":"16a9c9f57d611b20","x":1049,"y":-172,"width":211,"height":112,"type":"text","text":"Saudades:\nTe extranõ\nTe hecho de menos"}
+	],
+	"edges":[]
+}

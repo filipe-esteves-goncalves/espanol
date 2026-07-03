@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"499dac85c75a6a96","type":"file","file":"images/La familia.png","x":-420,"y":-340,"width":400,"height":375},
+		{"id":"e6086f16ca5b5457","type":"file","file":"images/Los miembros de la familia.png","x":80,"y":-340,"width":366,"height":460}
+	],
+	"edges":[]
+}
