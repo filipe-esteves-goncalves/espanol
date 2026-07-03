@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "093d19df51c6e11b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Familia.canvas",
-                "viewState": {
-                  "x": 13,
-                  "y": -110,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Familia"
-            }
-          },
-          {
-            "id": "5df3458e2db989b8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Partes del cuerpo.canvas",
-                "viewState": {
-                  "x": -172.47336274553757,
-                  "y": -63.65629444369507,
-                  "zoom": 0.19999999999999996
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Partes del cuerpo"
-            }
-          },
-          {
-            "id": "63943736dee1f760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiempos verbales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tiempos verbales"
-            }
-          },
-          {
             "id": "f3faa3a20908635b",
             "type": "leaf",
             "state": {
@@ -63,17 +15,16 @@
               "state": {
                 "file": "Canvas/Tiempos verbales.canvas",
                 "viewState": {
-                  "x": -209.62726728239403,
-                  "y": -603.2568252893627,
-                  "zoom": -0.8113777690982776
+                  "x": -279.5210843442607,
+                  "y": 613.400677836941,
+                  "zoom": -0.9999999999999999
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Tiempos verbales"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,9 +199,17 @@
   },
   "active": "f3faa3a20908635b",
   "lastOpenFiles": [
+    "Notes/Tiempos verbales/Futuro Simple.md",
+    "Canvas/Tiempos verbales.canvas",
+    "Notes/Tiempos verbales/Préterito Perfecto Simple.md",
+    "Notes/Tiempos verbales/Pretérito Imperfecto.md",
+    "Notes/Tiempos verbales/Perfecto Compuesto.md",
+    "Notes/Tiempos verbales/Pretérito.md",
+    "Notes/Tiempos verbales",
+    "Notes/Tiempos verbales/Presente del Indicativo.md",
     "Notes/Tiempos verbales.md",
     "Notes/Questiones.md",
-    "Notes/Los Verbos.md",
+    "Notes/Tiempos verbales/Los Verbos.md",
     "Notes/Letras-Fonemas.md",
     "Untitled.md",
     "Notes",
@@ -264,7 +223,6 @@
     "images/Emociones basico.png",
     "images/Emociones.png",
     "images/La familia.png",
-    "Canvas/Tiempos verbales.canvas",
     "Books/Juego de tronos/Juego de tronos.canvas",
     "Books/Juego de tronos/Images/Mormont.png",
     "Canvas/Rueda de las emociones.canvas",
@@ -277,7 +235,6 @@
     "Books/Juego de tronos/old-valyria-with-cities-and-labelled.html",
     "Books/Juego de tronos/old-valyria-with-cities-and-labelled.html.crdownload",
     "Targeryan.png.crdownload",
-    "Books/Juego de tronos",
-    "Books"
+    "Books/Juego de tronos"
   ]
 }
