@@ -4,60 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "3195d8fe5b5957bd",
-        "type": "split",
+        "id": "d2b43558a497c282",
+        "type": "tabs",
         "children": [
           {
-            "id": "d2b43558a497c282",
-            "type": "tabs",
-            "dimension": 62.03703703703704,
-            "children": [
-              {
-                "id": "f3faa3a20908635b",
-                "type": "leaf",
-                "state": {
-                  "type": "split-diff-view",
-                  "state": {
-                    "aFile": "Canvas/Vajilla.canvas",
-                    "bFile": "Canvas/Vajilla.canvas",
-                    "aRef": ""
-                  },
-                  "icon": "diff",
-                  "title": "Diff: Vajilla.canvas  (Working Tree)"
-                },
-                "group": "7339f3585b1829b3"
-              }
-            ]
-          },
-          {
-            "id": "1a4c23b67e7fb13e",
-            "type": "tabs",
-            "dimension": 37.96296296296296,
-            "children": [
-              {
-                "id": "d6f900f3b67cf3f3",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Canvas/Diario.canvas",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for Diario"
-                },
-                "group": "7339f3585b1829b3"
-              }
-            ]
+            "id": "f3faa3a20908635b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Cocina.canvas",
+                "viewState": {
+                  "x": -47.99361948065308,
+                  "y": -157.63676181423793,
+                  "zoom": 0.20000000000000007
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Cocina"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
