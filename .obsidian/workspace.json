@@ -11,17 +11,14 @@
             "id": "f3faa3a20908635b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Tiempos verbales.canvas",
-                "viewState": {
-                  "x": -279.5210843442607,
-                  "y": 613.400677836941,
-                  "zoom": -0.9999999999999999
-                }
+                "file": "Canciones/Sí no estás.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Tiempos verbales"
+              "icon": "lucide-file",
+              "title": "Sí no estás"
             }
           }
         ]
@@ -199,8 +196,28 @@
   },
   "active": "f3faa3a20908635b",
   "lastOpenFiles": [
-    "Notes/Tiempos verbales/Futuro Simple.md",
+    "Canciones/Hawai.md",
+    "Canciones/Sí no estás.md",
+    "Canciones/Mi gente.md",
+    "Canciones/Un catito de luz.md",
+    "Canciones/Provenza.md",
+    "Canciones/Acróstico.md",
+    "Canvas/vajilla.md",
+    "Canvas/Vajilla.canvas",
+    "Pasted image 20260704083542.png",
+    "Pasted image 20260704083123.png",
+    "Pasted image 20260704083023.png",
+    "Pasted image 20260704083015.png",
+    "Canciones/Viva la quinta brigada.md",
+    "Canciones/Sí Antes te Hubiera Conocido.md",
+    "Canciones/Pepas (extasy).md",
+    "Canciones/La torutra.md",
+    "Canciones/La bachata.md",
+    "Canciones/Échame la Culpa.md",
+    "Canciones/Chantaje.md",
     "Canvas/Tiempos verbales.canvas",
+    "Canciones",
+    "Notes/Tiempos verbales/Futuro Simple.md",
     "Notes/Tiempos verbales/Préterito Perfecto Simple.md",
     "Notes/Tiempos verbales/Pretérito Imperfecto.md",
     "Notes/Tiempos verbales/Perfecto Compuesto.md",
@@ -222,19 +239,14 @@
     "images/Partes del cuerpo.png",
     "images/Emociones basico.png",
     "images/Emociones.png",
-    "images/La familia.png",
     "Books/Juego de tronos/Juego de tronos.canvas",
-    "Books/Juego de tronos/Images/Mormont.png",
     "Canvas/Rueda de las emociones.canvas",
     "images",
-    "Books/Juego de tronos/Images/Westeros.png",
     "Books/Juego de tronos/Images",
-    "Books/Juego de tronos/Images/Maester Luwin.png",
     "Books/Juego de tronos/family three.png.crdownload",
     "Welcome.md",
     "Books/Juego de tronos/old-valyria-with-cities-and-labelled.html",
     "Books/Juego de tronos/old-valyria-with-cities-and-labelled.html.crdownload",
-    "Targeryan.png.crdownload",
-    "Books/Juego de tronos"
+    "Targeryan.png.crdownload"
   ]
 }
