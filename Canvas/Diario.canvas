@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"43aa9d5a37d8ce56","x":-380,"y":-340,"width":319,"height":400,"type":"file","file":"images/Pasted image 20260704150626.png"},
-		{"id":"3f90cf013b7f8487","x":40,"y":-340,"width":300,"height":400,"type":"file","file":"images/Vocabulario de Tiempo.png"}
+		{"id":"43aa9d5a37d8ce56","type":"file","file":"images/Pasted image 20260704150626.png","x":-380,"y":-340,"width":319,"height":400},
+		{"id":"3f90cf013b7f8487","type":"file","file":"images/Vocabulario de Tiempo.png","x":40,"y":-340,"width":300,"height":400}
 	],
 	"edges":[]
 }

@@ -16,12 +16,14 @@
                 "id": "f3faa3a20908635b",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
+                  "type": "split-diff-view",
                   "state": {
-                    "file": "images/Vocabulario de Tiempo.png"
+                    "aFile": "Canvas/Vajilla.canvas",
+                    "bFile": "Canvas/Vajilla.canvas",
+                    "aRef": ""
                   },
-                  "icon": "lucide-image",
-                  "title": "Vocabulario de Tiempo"
+                  "icon": "diff",
+                  "title": "Diff: Vajilla.canvas  (Working Tree)"
                 },
                 "group": "7339f3585b1829b3"
               }
@@ -38,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "images/Vocabulario de Tiempo.png",
+                    "file": "Canvas/Diario.canvas",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -48,7 +50,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Vocabulario de Tiempo"
+                  "title": "Backlinks for Diario"
                 },
                 "group": "7339f3585b1829b3"
               }
@@ -228,15 +230,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e71339b325d0b30",
+  "active": "f3faa3a20908635b",
   "lastOpenFiles": [
+    "Canvas/Diario.canvas",
+    "Canvas/Cocina.canvas",
+    "images/Vocabulario de Tiempo.png",
     "images/Pasted image 20260704150626.png",
     "images/En la mesa.png",
-    "Canvas/Vajilla.canvas",
     "images/Cacerolas.png",
     "images/En la cocina.png",
-    "Canvas/Diario.canvas",
-    "images/Vocabulario de Tiempo.png",
     "Canciones/Sí no estás.md",
     "Canvas/Untitled.md",
     "Canciones/Hawai.md",
