@@ -4,24 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b43558a497c282",
-        "type": "tabs",
+        "id": "3195d8fe5b5957bd",
+        "type": "split",
         "children": [
           {
-            "id": "f3faa3a20908635b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Canciones/Sí no estás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sí no estás"
-            }
+            "id": "d2b43558a497c282",
+            "type": "tabs",
+            "dimension": 62.03703703703704,
+            "children": [
+              {
+                "id": "f3faa3a20908635b",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "images/Vocabulario de Tiempo.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Vocabulario de Tiempo"
+                },
+                "group": "7339f3585b1829b3"
+              }
+            ]
+          },
+          {
+            "id": "1a4c23b67e7fb13e",
+            "type": "tabs",
+            "dimension": 37.96296296296296,
+            "children": [
+              {
+                "id": "d6f900f3b67cf3f3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "images/Vocabulario de Tiempo.png",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Vocabulario de Tiempo"
+                },
+                "group": "7339f3585b1829b3"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -194,20 +228,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3faa3a20908635b",
+  "active": "3e71339b325d0b30",
   "lastOpenFiles": [
-    "Canciones/Hawai.md",
+    "images/Pasted image 20260704150626.png",
+    "images/En la mesa.png",
+    "Canvas/Vajilla.canvas",
+    "images/Cacerolas.png",
+    "images/En la cocina.png",
+    "Canvas/Diario.canvas",
+    "images/Vocabulario de Tiempo.png",
     "Canciones/Sí no estás.md",
+    "Canvas/Untitled.md",
+    "Canciones/Hawai.md",
     "Canciones/Mi gente.md",
     "Canciones/Un catito de luz.md",
     "Canciones/Provenza.md",
     "Canciones/Acróstico.md",
     "Canvas/vajilla.md",
-    "Canvas/Vajilla.canvas",
-    "Pasted image 20260704083542.png",
-    "Pasted image 20260704083123.png",
-    "Pasted image 20260704083023.png",
-    "Pasted image 20260704083015.png",
     "Canciones/Viva la quinta brigada.md",
     "Canciones/Sí Antes te Hubiera Conocido.md",
     "Canciones/Pepas (extasy).md",
@@ -228,7 +265,6 @@
     "Notes/Questiones.md",
     "Notes/Tiempos verbales/Los Verbos.md",
     "Notes/Letras-Fonemas.md",
-    "Untitled.md",
     "Notes",
     "Canvas/Partes del cuerpo.canvas",
     "Canvas",
@@ -237,14 +273,11 @@
     "images/Los miembros de la familia.png",
     "images/órgãos.png",
     "images/Partes del cuerpo.png",
-    "images/Emociones basico.png",
-    "images/Emociones.png",
     "Books/Juego de tronos/Juego de tronos.canvas",
     "Canvas/Rueda de las emociones.canvas",
     "images",
     "Books/Juego de tronos/Images",
     "Books/Juego de tronos/family three.png.crdownload",
-    "Welcome.md",
     "Books/Juego de tronos/old-valyria-with-cities-and-labelled.html",
     "Books/Juego de tronos/old-valyria-with-cities-and-labelled.html.crdownload",
     "Targeryan.png.crdownload"
