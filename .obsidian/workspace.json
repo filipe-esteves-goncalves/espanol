@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas/Cocina.canvas",
+                "file": "Canvas/Los verbos y los sentidos.canvas",
                 "viewState": {
-                  "x": -47.99361948065308,
-                  "y": -157.63676181423793,
-                  "zoom": 0.20000000000000007
+                  "x": 570.9906809641255,
+                  "y": -222.73239981913588,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Cocina"
+              "title": "Los verbos y los sentidos"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "f3faa3a20908635b",
   "lastOpenFiles": [
-    "Canvas/Diario.canvas",
+    "Pasted image 20260705111750.png",
     "Canvas/Cocina.canvas",
+    "Canvas/Los verbos y los sentidos.canvas",
+    "Canvas/Diario.canvas",
     "images/Vocabulario de Tiempo.png",
     "images/Pasted image 20260704150626.png",
     "images/En la mesa.png",
