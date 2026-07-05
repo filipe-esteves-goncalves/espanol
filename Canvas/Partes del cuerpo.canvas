@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"068f9c5219ec9305","type":"file","file":"images/Partes del cuerpo.png","x":-580,"y":-300,"width":621,"height":540},
-		{"id":"567bc16e783a1b14","type":"file","file":"images/órgãos.png","x":120,"y":-300,"width":484,"height":860}
+		{"id":"567bc16e783a1b14","type":"file","file":"images/Orgaos.png","x":120,"y":-300,"width":484,"height":860}
 	],
 	"edges":[]
 }

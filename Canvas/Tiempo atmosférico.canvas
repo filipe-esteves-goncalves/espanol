@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"479647604967ad01","type":"file","file":"images/Tiempo atmosferico.png","x":-300,"y":-320,"width":360,"height":643},
+		{"id":"293a1fcbe80e3e90","type":"file","file":"images/Tiempo Hace Esta Hay.png","x":100,"y":-320,"width":455,"height":643},
+		{"id":"18d9163d576ae219","type":"file","file":"images/La temperatura.png","x":640,"y":-320,"width":643,"height":643}
+	],
+	"edges":[]
+}

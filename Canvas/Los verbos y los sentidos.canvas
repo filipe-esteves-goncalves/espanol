@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"2f6fe72aafee60a5","x":-300,"y":-420,"width":380,"height":540,"type":"file","file":"Pasted image 20260705111750.png"},
-		{"id":"bf82ab7b4a69406e","x":140,"y":-247,"width":960,"height":195,"type":"text","text":"|**O que você quer dizer (PT)**|**Contexto**|**Verbo em Espanhol**|**Exemplo (ES)**|\n|---|---|---|---|\n|Assistir / Ver|Telas (TV, cinema, celular)|**Ver** (ou _Mirar_)|_Veo la televisión._|\n|Assistir / Ver|Esportes na TV|**Ver** (ou _Mirar_)|_Veo el partido en el bar._|\n|Assistir / Ir a|Evento presencial (ir ao estádio/teatro)|**Asistir (a)**|_Asisto al partido en el estadio._|\n|Assistir / Ajudar|Prestar socorro/ajuda médica|**Asistir**|_El médico asiste al paciente._|"}
+		{"id":"2f6fe72aafee60a5","type":"file","file":"images/Los verbos y los sentidos.png","x":-300,"y":-420,"width":380,"height":540},
+		{"id":"bf82ab7b4a69406e","type":"text","text":"|**O que você quer dizer (PT)**|**Contexto**|**Verbo em Espanhol**|**Exemplo (ES)**|\n|---|---|---|---|\n|Assistir / Ver|Telas (TV, cinema, celular)|**Ver** (ou _Mirar_)|_Veo la televisión._|\n|Assistir / Ver|Esportes na TV|**Ver** (ou _Mirar_)|_Veo el partido en el bar._|\n|Assistir / Ir a|Evento presencial (ir ao estádio/teatro)|**Asistir (a)**|_Asisto al partido en el estadio._|\n|Assistir / Ajudar|Prestar socorro/ajuda médica|**Asistir**|_El médico asiste al paciente._|","x":140,"y":-247,"width":960,"height":195}
 	],
 	"edges":[]
 }
