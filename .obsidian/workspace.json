@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas/Tiempos verbales.canvas",
+                "file": "Books/Juego de tronos/Juego de tronos.canvas",
                 "viewState": {
-                  "x": 352,
-                  "y": 242.5,
-                  "zoom": -1.3532922657966975
+                  "x": 467.1290249109006,
+                  "y": -864.6292863260695,
+                  "zoom": 0.20000000000000018
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Tiempos verbales"
+              "title": "Juego de tronos"
             }
           }
         ]
@@ -199,6 +199,9 @@
   },
   "active": "2dbc1a8c88feb3a2",
   "lastOpenFiles": [
+    "Pasted image 20260708194947.png",
+    "Pasted image 20260708193833.png",
+    "Canvas/Tiempos verbales.canvas",
     "Canvas/Tiempo atmosférico.canvas",
     "Canvas/Rueda de las emociones.canvas",
     "Canvas/Partes del cuerpo.canvas",
@@ -211,16 +214,13 @@
     "images/Tiempo atmosferico.png",
     "images/Vocabulario de Tiempo.png",
     "images/Tiempo Hace Esta Hay.png",
-    "images/Ropa.canvas",
     "images/La temperatura.png",
     "images/Ropa.png",
     "images/Partes del cuerpo.png",
     "images/Pasted image 20260704150626.png",
     "images/Orgaos.png",
     "images/Los verbos y los sentidos.png",
-    "images/La familia.png",
     "Canvas/Untitled.md",
-    "Canvas/Tiempos verbales.canvas",
     "Canciones/Sí no estás.md",
     "Canciones/Hawai.md",
     "Canciones/Mi gente.md",
