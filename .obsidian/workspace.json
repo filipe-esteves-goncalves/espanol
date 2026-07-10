@@ -15,9 +15,9 @@
               "state": {
                 "file": "Books/Juego de tronos/Juego de tronos.canvas",
                 "viewState": {
-                  "x": 162.20162411696856,
-                  "y": -1135.9246357421657,
-                  "zoom": 1
+                  "x": 114.67073292883437,
+                  "y": -945.715104744418,
+                  "zoom": 0.6000000000000002
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -77,8 +77,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
