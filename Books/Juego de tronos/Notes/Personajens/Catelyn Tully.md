@@ -1,0 +1,3 @@
+La sangre Tully le corría por las venas, había nacido y se había criado en Aguasdulces, muy al sur, en el Forca Roja del Tridente
+
+Catelyn había sido ungida con los siete óleos y había recibido su nombre en el arco iris de luz que llenaba el sept de Aguasdulces. Profesaba la Fe, igual que su padre, que su abuelo y que el padre de su abuelo antes de ellos. Sus dioses tenían nombres y unos rostros que le eran tan familiares como los de sus progenitores.

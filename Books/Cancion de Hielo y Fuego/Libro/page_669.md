@@ -1,0 +1,14 @@
+había sido su dormitorio... Una parte de él deseaba más que nada en el mundo volver a oír la risa de Bran, comer una de las empanadas de carne de Gage, y oír los cuentos de la Vieja Tata sobre los hijos del bosque y Florian el Bufón. 
+
+Pero no había huido del Muro para eso. Se había marchado porque era hijo de su padre y hermano de Robb. Una espada regalada, aunque fuera tan bella como _Garra_ , no hacía de él un Mormont. Tampoco era Aemon Targaryen. El anciano había tenido que decidir en tres ocasiones, y en tres ocasiones había optado por el honor, pero había sido su decisión. Ni siquiera en aquellos momentos sabía Jon si el maestre se había quedado porque era débil y cobarde, o porque era fuerte y honorable. Pero comprendía lo que le había contado sobre el dolor de elegir.  Lo  comprendía demasiado bien. 
+
+Tyrion Lannister aseguraba que la mayoría de los hombres prefería negar una verdad dolorosa antes que enfrentarse a ella, pero Jon estaba harto de negar cosas. Era quien era: Jon Nieve, bastardo y fugitivo, sin madre, sin amigos, perseguido. Durante el resto de su vida, durase lo que durase, sería un forajido, un hombre silencioso que se ampararía en las sombras sin atreverse a pronunciar su verdadero nombre. En los Siete Reinos, fuera a donde fuese, tendría que vivir en la mentira, o cada hombre sería su enemigo. Pero eso no importaba; nada importaba, siempre que viviera lo suficiente para ocupar el lugar que le correspondía al lado de su hermano, y ayudara a vengar a su padre. 
+
+Recordó a Robb tal como lo había visto por última vez, de pie en el patio, con la nieve derritiéndosele sobre el cabello castaño cobrizo. Jon tendría que acercarse a él en secreto, disfrazado. Trató de imaginar la cara que pondría Robb cuando le descubriera su personalidad. Su hermano sacudiría la cabeza, y sonreiría, y le diría... le diría... 
+
+No conseguía visualizar la sonrisa. Por mucho que lo intentaba, no la veía. En cambio, recordaba al desertor que su padre había decapitado el día que encontraron los lobos huargos. «Pronunciaste un juramento —le había dicho Lord  Eddard—. Hiciste votos ante tus hermanos, ante los antiguos dioses y ante  los  nuevos.» Desmond y Tom _el Gordo_ arrastraron al hombre hasta el tocón. Bran tenía los ojos abiertos como platos, y Jon tuvo que recordarle que controlara su poni. Recordaba la expresión en la cara de su padre cuando Theon Greyjoy le tendió a _Hielo_ ; la lluvia de sangre sobre la nieve; la manera en que Theon había pateado la cabeza cuando llegó rodando a sus pies. 
+
+Se preguntó qué habría hecho Lord Eddard si el desertor hubiera sido su hermano Benjen, en vez de aquel desconocido harapiento. ¿Habrían  cambiado  las  cosas? Seguro que sí, sin duda, sin duda... Y Robb le daría la bienvenida, desde luego. Era necesario. Si no... 
+
+No quería ni siquiera pensarlo. El dolor le palpitó en lo más profundo de los 
+

@@ -1,0 +1,14 @@
+## **DAENERYS (7)** 
+
+Tras la batalla, Dany cabalgó a lomos de plata por los campos cubiertos de cadáveres. Tras ella iban sus doncellas y los hombres de su _khas_ , sonriendo y bromeando entre ellos. 
+
+Los cascos de los caballos dothrakis habían desgarrado la tierra y pisoteado el centeno y las lentejas, mientras que los _arakhs_ y las flechas habían sembrado una cosecha nueva y terrible, y la habían regado con sangre. Los caballos moribundos alzaron las cabezas y relincharon a su paso. Los hombres heridos gemían y rezaban. Los _jaqqa rhan_ se movían entre ellos: eran los hombres misericordiosos, con pesadas hachas, que cortaban las cabezas a muertos y moribundos por igual. Tras ellos iba una bandada de niñitas, que arrancaban las flechas de los cadáveres y las ponían en sus cestas. Y,  por último, iba la manada de perros salvajes, flacos y hambrientos, que seguía siempre de cerca al _khalasar_ . 
+
+Las ovejas eran las que llevaban más tiempo muertas. Eran miles, estaban acribilladas a flechazos y se veían negras por las moscas que las cubrían. Dany sabía que aquello era obra de los jinetes de Khal Ogo. Ningún hombre del _khalasar_ de Drogo era tan estúpido para malgastar las flechas con ovejas, pudiendo emplearlas contra los pastores. 
+
+La ciudad estaba en llamas; las columnas de humo negro se alzaban hacia un cielo azul inmaculado. Bajo los muros destrozados de barro seco,  los  jinetes galopaban de un lado a otro, haciendo restallar látigos largos mientras sacaban a los supervivientes de entre las ruinas humeantes. Pese a la derrota y a las ligaduras, las mujeres y niños del _khalasar_ de Ogo caminaban con orgullo hosco; se habían convertido en esclavos, pero no parecían tener miedo. En cambio los habitantes de la ciudad eran diferentes. Dany los compadecía, recordaba bien cómo era sentir terror. Las mujeres caminaban a trompicones, con rostros vacíos e inexpresivos, llevando de la mano a sus hijos sollozantes. Sólo había unos pocos hombres: tullidos, cobardes y ancianos. 
+
+Ser Jorah le dijo que los habitantes de aquel país decían que eran Ihazareen, pero los dothrakis los llamaban _haesh rakhi_ , los hombres cordero. En el pasado, Dany los habría tomado por dothrakis: tenían la misma piel cobriza e  idénticos  ojos almendrados. Pero a aquellas alturas le parecían muy  diferentes;  eran  bajos,  de rostros planos, con el pelo negro muy corto. Pastoreaban ovejas y comían verduras, y Khal Drogo decía que su lugar estaba al sur del meandro del río. La hierba del mar dothraki no era para las ovejas. 
+
+Dany vio que un niño trataba de huir en dirección al río. Un jinete le cortó el paso, y otros lo rodearon, haciendo restallar los látigos ante su rostro, obligándolo a correr de un lado a otro. Uno galopó tras él y le azotó las nalgas hasta que tuvo los 
+

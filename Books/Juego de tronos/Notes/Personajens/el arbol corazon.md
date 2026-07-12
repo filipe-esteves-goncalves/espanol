@@ -1,0 +1,3 @@
+El árbol corazón
+
+La madera del arciano era blanca como el hueso, con hojas de un rojo oscuro que pendían como un millar de manos ensangrentadas. En el tronco había una cara tallada, con rasgos alargados y melancólicos, y los ojos enrojecidos de savia seca, extrañamente atentos. Aquellos ojos eran viejos, muy viejos; más viejos que  la  mismísima  Invernalia. Habían visto el día en que Branden _el Constructor_ puso la primera piedra, si se podía dar crédito a las historias.

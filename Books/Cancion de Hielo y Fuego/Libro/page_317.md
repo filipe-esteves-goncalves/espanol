@@ -1,0 +1,14 @@
+## **CATELYN (6)** 
+
+—Deberíais habernos anunciado vuestra llegada, mi señora —dijo Ser Donnel Waynwood mientras los caballos ascendían por el paso—. Os habríamos enviado una escolta. El camino alto ya no es tan seguro como en otros tiempos, y menos para un grupo tan pequeño como el vuestro. 
+
+—Lo hemos descubierto a un alto precio, Ser Donnel —respondió  Catelyn.  A veces tenía la sensación de que su corazón se había trocado en piedra. Para ayudarla a llegar hasta allí habían muerto seis hombres, seis valientes, y  no  había  tenido lágrimas para llorarlos. Hasta empezaba a olvidar sus nombres—. Los clanes nos han acosado día y noche. Perdimos tres hombres en el primer ataque, dos más en el segundo, y el criado de Lannister murió de fiebres cuando se le infectaron las heridas. Al oír llegar a vuestros hombres nos dimos por muertos. 
+
+Se habían preparado para una última pelea desesperada, con las espaldas contra las rocas y las armas en las manos. El enano estaba afilando el hacha y hacía algún comentario jocoso cuando Bronn divisó el estandarte de los jinetes,  la  luna  y  el halcón de la Casa Arryn, azul celeste y blanco. Catelyn no había visto nada  tan hermoso en su vida. 
+
+—Desde que murió Lord Jon, los clanes son cada vez más osados —dijo Ser Donnel. Era un joven de veinte años rechoncho,  poco  agraciado,  vehemente,  con nariz ancha y una mata espesa de pelo castaño—. Si de mí dependiera, iría a las montañas con cien hombres, los sacaría de sus escondrijos y les daría una buena lección, pero vuestra hermana lo ha prohibido. Ni siquiera permite que sus caballeros participen en el torneo de la Mano. Quiere que todos sus hombres estén cerca, para defender el Valle...  aunque nadie sabe de qué hay que defenderlo. Hay quien piensa que de las sombras. —La miró con ansiedad, como si acabara de recordar quién era su interlocutora—. Espero no haber hablado demasiado, mi señora. No era  mi intención ofenderos. 
+
+—La sinceridad no puede ofenderme, Ser Donnel. —Catelyn sabía de qué tenía miedo su hermana. 
+
+De las sombras no, de los Lannister, pensó al tiempo que lanzaba una mirada hacia el enano que cabalgaba junto a Bronn. Aquellos dos se habían unido mucho desde la muerte de Chiggen. El hombrecillo era demasiado astuto para su gusto. Al llegar a las montañas era su prisionero, iba atado e impotente. ¿Y en aquel momento? Seguía siendo su prisionero, pero cabalgaba junto a ellos con una daga en el cinturón y un hacha colgada de la silla de montar, vestía la capa de gatosombra que había ganado al bardo a los dados, y la cota de mallas que había tomado del cadáver de Chiggen. Cuarenta hombres escoltaban al enano y al resto del desastrado grupo, eran caballeros y guerreros al servicio de su hermana Lysa y del hijito de Jon Arryn, pero 
+

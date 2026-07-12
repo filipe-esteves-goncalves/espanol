@@ -1,0 +1,1 @@
+En su juventud, Ned había estado como pupilo en el Nido de Águilas, y Lord Arryn, que no tenía hijos, había sido como un padre para él y para su otro pupilo, Robert 

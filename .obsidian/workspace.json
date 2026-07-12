@@ -4,27 +4,114 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b43558a497c282",
-        "type": "tabs",
+        "id": "e84970499a861411",
+        "type": "split",
         "children": [
           {
-            "id": "2dbc1a8c88feb3a2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Books/Juego de tronos/Juego de tronos.canvas",
-                "viewState": {
-                  "x": 114.67073292883437,
-                  "y": -945.715104744418,
-                  "zoom": 0.6000000000000002
+            "id": "d2b43558a497c282",
+            "type": "tabs",
+            "dimension": 63.7962962962963,
+            "children": [
+              {
+                "id": "2dbc1a8c88feb3a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Books/Cancion de Hielo y Fuego/Libro/page_43 EDDARD (1).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "page_43 EDDARD (1)"
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Juego de tronos"
-            }
+              {
+                "id": "51d89977d91a2439",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ser Jorah Mormont.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ser Jorah Mormont"
+                }
+              },
+              {
+                "id": "5f85c529f02f0140",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Books/Juego de tronos/Notes/Personajens/Khal Drogo.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Khal Drogo"
+                }
+              },
+              {
+                "id": "00082a2755cecd06",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Books/Juego de tronos/Notes/Ubicaciones/Ubicaciones.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ubicaciones"
+                }
+              },
+              {
+                "id": "4e81717cf441ad24",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Books/Juego de tronos/Notes/Familias/Los  Dothrakis.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Los  Dothrakis"
+                }
+              }
+            ]
+          },
+          {
+            "id": "19f37485f5cab449",
+            "type": "tabs",
+            "dimension": 36.2037037037037,
+            "children": [
+              {
+                "id": "876bc46442f63b7b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Books/Cancion de Hielo y Fuego/Libro/page_43 EDDARD (1).md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for page_43 EDDARD (1)"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -56,10 +143,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grey",
+                "query": "khal",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -199,8 +286,54 @@
   },
   "active": "2dbc1a8c88feb3a2",
   "lastOpenFiles": [
-    "Pasted image 20260708194947.png",
-    "Pasted image 20260708193833.png",
+    "Books/Cancion de Hielo y Fuego/Libro/page_20 BRAN (1).md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_43 EDDARD (1).md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_33 DAENERYS (1).md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_42.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_41.md",
+    "Books/Juego de tronos/Notes/Personajens/Khal Drogo.md",
+    "Ser Jorah Mormont.md",
+    "Books/Juego de tronos/Notes/Familias/Los  Dothrakis.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_40.md",
+    "Books/Juego de tronos/Notes/Ubicaciones/Ubicaciones.md",
+    "Books/Juego de tronos/Notes/Familias/Arbol Stark.canvas",
+    "Books/Juego de tronos/Notes/Ubicaciones/House Arryn.md",
+    "Books/Juego de tronos/Notes/Familias/Casa Lannister.md",
+    "Books/Juego de tronos/Notes/Familias/Casa Tully.md",
+    "Books/Juego de tronos/Notes/Ubicaciones/Invernalia.md",
+    "Books/Juego de tronos/Notes/Ubicaciones/Casa Arryn.md",
+    "Books/Juego de tronos/Notes/Familias/Casa Targaryen.md",
+    "Books/Juego de tronos/Notes/Ubicaciones/Essos (9 ciudads libres).md",
+    "Books/Juego de tronos/Notes/Familias/Guardia de la Noche.md",
+    "Books/Juego de tronos/Notes/Familias/Casa Darry.md",
+    "Books/Juego de tronos/Notes/Historias/Batalla del Tridente.md",
+    "Books/Juego de tronos/Notes/Religions/El Señor de la Luz.md",
+    "Books/Juego de tronos/Notes/Familias/Inmaculados.md",
+    "Puerto de Ibben.md",
+    "Islas del Verano.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_39.md",
+    "Books/Juego de tronos/Notes/Familias/sacerdotes rojos.md",
+    "Books/Juego de tronos/Notes/Historias",
+    "Books/Juego de tronos/Juego de tronos.canvas",
+    "Books/Cancion de Hielo y Fuego/images/Waymar Royce.png",
+    "Books/Cancion de Hielo y Fuego/images/Brynden Tully.png",
+    "Books/Cancion de Hielo y Fuego/images/Isla de los rostros.png",
+    "Books/Cancion de Hielo y Fuego/images/Arboles de la isla de los rostros.png",
+    "Books/Cancion de Hielo y Fuego/images/Harrennhal.png",
+    "Books/Cancion de Hielo y Fuego/images/Pasted image 20260712122421.png",
+    "Books/Juego de tronos/Notes/Religions",
+    "Books/Cancion de Hielo y Fuego/images/Lobo huargo - Stark.png",
+    "Books/Cancion de Hielo y Fuego/images/got.pdf-0698-00.png",
+    "Books/Juego de tronos/Notes/Familias",
+    "Books/Juego de tronos/Notes/Ubicaciones",
+    "Books/Juego de tronos/Notes/Personajens",
+    "Books/Juego de tronos/Notes/Vocabulario",
+    "Books/Juego de tronos/Images/Mallister of seagard.png",
+    "Books/Juego de tronos/Images/Stark familia arbol.png",
+    "Books/Cancion de Hielo y Fuego/Libro",
+    "Books/Juego de tronos/Notes",
+    "Books/Cancion de Hielo y Fuego/images",
+    "Books/Cancion de Hielo y Fuego/Traducions",
     "Canvas/Tiempos verbales.canvas",
     "Canvas/Tiempo atmosférico.canvas",
     "Canvas/Rueda de las emociones.canvas",
@@ -208,52 +341,6 @@
     "Canvas/Los verbos y los sentidos.canvas",
     "Canvas/Familia.canvas",
     "Canvas/Diario.canvas",
-    "Canvas/Cocina.canvas",
-    "Canvas/Cerveza.canvas",
-    "Canvas/Alimentos.canvas",
-    "images/Tiempo atmosferico.png",
-    "images/Vocabulario de Tiempo.png",
-    "images/Tiempo Hace Esta Hay.png",
-    "images/La temperatura.png",
-    "images/Ropa.png",
-    "images/Partes del cuerpo.png",
-    "images/Pasted image 20260704150626.png",
-    "images/Orgaos.png",
-    "images/Los verbos y los sentidos.png",
-    "Canvas/Untitled.md",
-    "Canciones/Sí no estás.md",
-    "Canciones/Hawai.md",
-    "Canciones/Mi gente.md",
-    "Canciones/Un catito de luz.md",
-    "Canciones/Provenza.md",
-    "Canciones/Acróstico.md",
-    "Canvas/vajilla.md",
-    "Canciones/Viva la quinta brigada.md",
-    "Canciones/Sí Antes te Hubiera Conocido.md",
-    "Canciones/Pepas (extasy).md",
-    "Canciones/La torutra.md",
-    "Canciones/La bachata.md",
-    "Canciones/Échame la Culpa.md",
-    "Canciones/Chantaje.md",
-    "Canciones",
-    "Notes/Tiempos verbales/Futuro Simple.md",
-    "Notes/Tiempos verbales/Préterito Perfecto Simple.md",
-    "Notes/Tiempos verbales/Pretérito Imperfecto.md",
-    "Notes/Tiempos verbales/Perfecto Compuesto.md",
-    "Notes/Tiempos verbales/Pretérito.md",
-    "Notes/Tiempos verbales",
-    "Notes/Tiempos verbales/Presente del Indicativo.md",
-    "Notes/Tiempos verbales.md",
-    "Notes/Questiones.md",
-    "Notes/Tiempos verbales/Los Verbos.md",
-    "Notes/Letras-Fonemas.md",
-    "Notes",
-    "Canvas",
-    "images",
-    "Books/Juego de tronos/Images",
-    "Books/Juego de tronos/family three.png.crdownload",
-    "Books/Juego de tronos/old-valyria-with-cities-and-labelled.html",
-    "Books/Juego de tronos/old-valyria-with-cities-and-labelled.html.crdownload",
-    "Targeryan.png.crdownload"
+    "Canvas/Cocina.canvas"
   ]
 }

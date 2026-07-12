@@ -1,0 +1,1 @@
+ Hace ocho mil años que desaparecieron. En opinión del maestre Luwin, no existieron nunca. Nadie los ha visto jamás. 

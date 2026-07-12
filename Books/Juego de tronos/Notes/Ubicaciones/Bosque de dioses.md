@@ -1,0 +1,4 @@
+
+En aguadulces, el bosque de dioses era un jardín alegre y despejado, en el que las altas secuoyas proyectaban sombras sobre las aguas de arroyuelos cristalinos, los pájaros cantaban desde sus nidos escondidos y el aroma de las flores impregnaba el aire. 
+
+Los dioses de Invernalia tenían un bosque muy diferente. Era un lugar oscuro y primitivo, tres acres de árboles viejos que nadie había tocado en miles de  años, mientras el castillo se alzaba a su alrededor.  Olía a tierra húmeda y a putrefacción. Allí no crecían las secuoyas. Era un bosque de recios árboles centinela parapetados tras agujas color verde grisáceo, robles imponentes y tamarindos tan viejos como el propio reino. Allí los gruesos troncos negros estaban muy juntos, y las  ramas retorcidas tejían una techumbre tupida, mientras las raíces deformes se entrelazaban bajo la tierra. El silencio y las sombras imperaban, y los dioses de aquel bosque no tenían nombres. 

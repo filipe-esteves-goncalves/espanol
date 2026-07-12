@@ -1,0 +1,14 @@
+elegantemente. Tyrion las aceptó con una sonrisa. Cuando salieron de  Invernalia llevaba las ropas más abrigadas que tenía, y pronto descubrió que eran del todo insuficientes. Allí arriba hacía frío, mucho frío, cada vez más. Por las noches las temperaturas descendían muy por debajo del punto de congelación, y cuando soplaba el viento era como un cuchillo que cortara sus mejores ropajes de lana. Sin duda Stark lamentaba ya su impulso caballeroso. Quizá hubiera aprendido la lección. Los Lannister no rechazaban nada, ni elegantemente ni de ninguna manera. Los Lannister aceptaban todo lo que se les ofrecía. 
+
+A medida que avanzaban hacia el norte las granjas y los refugios eran cada vez más escasos y pequeños, y estaban más adentrados en el Bosque de los Lobos, hasta que al final ya no les quedaron más techos bajo los que cobijarse; a partir de allí sólo podrían contar con sus recursos. 
+
+Tyrion no servía de gran cosa a la hora de montar ni de levantar un campamento; demasiado pequeño, demasiado cojo, siempre estorbando. Así que, mientras Stark, Yoren y los demás hombres erigían refugios rudimentarios, se  ocupaban  de  los caballos y encendían una hoguera, adoptó la costumbre de coger sus pieles y un odre, y alejarse de todos para leer. 
+
+En la decimoctava noche de viaje, el vino era dulce y ambarino, una delicia poco común de las Islas del Verano que había llevado consigo todo el trayecto desde Roca Casterly, y el libro, una reflexión sobre la historia y características de los dragones. Lord Eddard Stark le había dado permiso para llevarse prestados unos cuantos volúmenes de la biblioteca de Invernalia, que eran auténticas rarezas, y Tyrion  los había cogido para su viaje hacia el norte. 
+
+Encontró un lugar cómodo lejos del ruido del campamento, junto a un arroyo de aguas rápidas, tan transparentes y frías como el hielo. Se refugió del viento cortante tras un roble viejo y retorcido, se arrebujó en las pieles con la espalda apoyada contra el tronco, bebió un sorbo de vino y empezó a leer acerca de las propiedades del huesodragón. «El color negro del huesodragón se debe a su alto contenido en hierro —le informó el libro—. Es fuerte como el acero, pero más ligero y  mucho  más flexible, y por supuesto completamente incombustible. Los dothrakis valoran en sobremanera los arcos de huesodragón, y no es de extrañar. Estos arcos tienen un alcance muy superior a los de madera.» 
+
+Tyrion sentía una fascinación morbosa por los dragones. La primera vez que fue a Desembarco del Rey, para asistir al matrimonio de su hermana con Robert Baratheon, se había propuesto buscar los cráneos de dragón que habían decorado los muros de la sala del trono en tiempos de los Targaryen. El rey Robert los había sustituido por estandartes y tapices, pero Tyrion porfió en su empeño hasta que encontró los cráneos en el sótano húmedo donde los tenían almacenados. 
+
+Había esperado toparse con algo impresionante, quizá incluso aterrador, no que 
+

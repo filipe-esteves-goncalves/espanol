@@ -1,0 +1,1 @@
+En aguadulces, el bosque de dioses era un jardín alegre y despejado, en el que las altas secuoyas proyectaban sombras sobre las aguas de arroyuelos cristalinos, los pájaros cantaban desde sus nidos escondidos y el aroma de las flores impregnaba el aire. 

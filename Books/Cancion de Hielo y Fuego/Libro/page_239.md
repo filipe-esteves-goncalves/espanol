@@ -1,0 +1,14 @@
+de maestros de armas, que intentaron transformar a Samwell en el caballero que su padre soñaba. El niño recibió insultos y bastonazos, lo abofetearon y lo mataron de hambre. Un hombre lo hacía dormir con la cota de mallas para hacerlo más marcial. Otro lo vistió con las ropas de su madre y lo hizo desfilar por las afueras del castillo, para ver si la vergüenza le inculcaba algún valor. Pero Sam  no  hacía  más  que engordar y cada vez era más asustadizo, hasta que la decepción de Lord Randyll se transformó en furia y en desprecio. 
+
+—Una vez —le confió Sam en susurros—, vinieron al castillo dos hombres de Quarth, dos hechiceros de piel blanca y ojos azules. Mataron un uro y me hicieron bañarme en la sangre caliente porque decían que eso me daría valor. Pero me dieron arcadas y vomité. Mi padre los mandó azotar. 
+
+Por fin, después de tres niñas en otros tantos años, Lady Tarly  dio a su señor esposo otro hijo varón. Desde aquel día en adelante Lord Randyll no volvió a mirar a Sam, y dedicó todo su tiempo a su hijo pequeño, un niño robusto y feroz mucho más de su agrado. Samwell conoció así varios años de paz y tranquilidad, con su música y sus libros. 
+
+Hasta que amaneció el decimoquinto día de su nombre, cuando lo despertaron y se encontró con el caballo ensillado y el equipaje listo. Tres hombres lo escoltaron hasta un bosque cercano a Colina Cuerno, donde su padre estaba despellejando un ciervo. 
+
+—Ya  eres casi un hombre, y sigues siendo mi heredero —dijo Lord Randyll Tarly a su hijo mayor, sin dejar de limpiar la carcasa con un cuchillo largo—. No me has dado motivos para desheredarte, pero no permitiré que te quedes con las tierras y el título que corresponden a Dickon por derecho. _Veneno de Corazón_ debe ser para un hombre que pueda esgrimirla, y tú no eres digno ni de tocar la empuñadura. Así que he decidido que hoy anunciarás que deseas vestir el negro.  Renunciarás  a  todo derecho sobre la herencia de tu hermano, y emprenderás el viaje hacia el norte antes de que anochezca. 
+
+»De lo contrario, mañana habrá una cacería, tu caballo  tropezará  en  estos bosques, tú te caerás y morirás... o eso es lo que diré a tu madre. Y por favor, no imagines que te resultaría fácil desafiarme. Nada me produciría  mayor  placer  que darte caza como al cerdo que eres. —Dejó el cuchillo de desollar a un lado. Tenía los brazos empapados de sangre hasta el codo—. Así que puedes elegir. La Guardia de la Noche... —Metió las manos en las entrañas del ciervo, le arrancó el corazón y se lo mostró, ensangrentado y goteante—. O esto. 
+
+Sam contó la historia con voz tranquila, átona, como si le hubiera pasado a otra persona y no a él. Y por extraño que pareciera no lloró ni una vez. Cuando terminó, los dos chicos se quedaron sentados un rato, escuchando el sonido del viento. No se oía otra cosa en el mundo entero. 
+
