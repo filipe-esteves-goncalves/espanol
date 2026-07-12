@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Canciones/Chantaje.md",
+                "file": "Books/Juego de tronos/Notes/Vocabulario/amodorrado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chantaje"
+              "title": "amodorrado"
             }
           },
           {
@@ -236,8 +236,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51d89977d91a2439",
+  "active": "3e71339b325d0b30",
   "lastOpenFiles": [
+    "Books/Juego de tronos/Notes/Vocabulario/débil.md",
+    "Books/Juego de tronos/Notes/Vocabulario/hundirse.md",
+    "Books/Juego de tronos/Notes/Vocabulario/orilla.md",
+    "Books/Juego de tronos/Notes/Vocabulario/pliegues.md",
+    "Books/Juego de tronos/Notes/Vocabulario/Poniente.md",
+    "Books/Juego de tronos/Juego de tronos.canvas",
+    "Canciones/Chantaje.md",
     "Canciones/Despacito.md",
     "Ser Jorah Mormont.md",
     "Canciones/Corazón Partido.md",
@@ -259,13 +266,7 @@
     "Books/Juego de tronos/Notes/Familias/Casa Targaryen.md",
     "Books/Juego de tronos/Notes/Ubicaciones/Essos (9 ciudads libres).md",
     "Books/Juego de tronos/Notes/Familias/Guardia de la Noche.md",
-    "Books/Juego de tronos/Notes/Familias/Casa Darry.md",
-    "Books/Juego de tronos/Notes/Historias/Batalla del Tridente.md",
-    "Books/Juego de tronos/Notes/Religions/El Señor de la Luz.md",
-    "Books/Juego de tronos/Notes/Familias/Inmaculados.md",
-    "Puerto de Ibben.md",
     "Books/Juego de tronos/Notes/Historias",
-    "Books/Juego de tronos/Juego de tronos.canvas",
     "Books/Cancion de Hielo y Fuego/images/Waymar Royce.png",
     "Books/Cancion de Hielo y Fuego/images/Brynden Tully.png",
     "Books/Cancion de Hielo y Fuego/images/Isla de los rostros.png",
