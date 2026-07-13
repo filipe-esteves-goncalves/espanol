@@ -1,5 +1,3 @@
-## **JON (1)** 
-
 Había ocasiones, aunque no muchas, en las que Jon Nieve se alegraba de ser el hijo bastardo. Aquella noche, mientras se llenaba una vez más la copa de vino de la jarra de un mozo que pasaba junto a él, pensó que ésa era una de ellas. 
 
 Volvió  a ocupar su lugar en el banco, entre los escuderos jóvenes, y bebió. El sabor dulce y afrutado del vino veraniego le impregnó la boca y dibujó una sonrisa en sus labios. 
