@@ -1,0 +1,12 @@
+EDUARDO GALEANO 
+
+obtenido de la protección todo lo que la protección puede ofrecer, adoptará también el libre comercio»<sup>57</sup> . 
+
+Dos siglos y medio antes, el adolescente capitalismo inglés había trasladado, a las colonias del norte de América, sus hombres, sus capitales, sus formas de vida y sus impulsos y proyectos. Las trece colonias, válvulas de salida para la población europea excedente, aprovecharon rápidamente el _handicap_ que les daba la pobreza de su suelo y su subsuelo, y generaron, desde temprano, _una conciencia industrializadora que la metrópoli dejó crecer sin mayores problemas._ En 1631, los recién llegados colonos de Boston echaron al mar una balandra de treinta toneladas, _Blessing of the Bay_ , construida por ellos, y desde entonces la industria naviera cobró un asombroso impulso. El roble blanco, abundante en los bosques, daba buena madera para las planchas profundas y las armazones interiores de los barcos; de pino se hacían la cubierta, los baupreses y los mástiles. Massachusetts otorgaba subvenciones a la producción del cáñamo para los cordeles y las sogas y también estimulaba la fabricación local de las lonas y los velámenes. Al norte y al sur de Boston, los prósperos astilleros cubrieron las costas. Los gobiernos de las colonias otorgaban subvenciones y premios a las manufacturas de todo tipo. Se promovía, con incentivos, el cultivo del lino y la producción de lana, materias primas para los tejidos de hilo crudo que, si bien no resultaban demasiado elegantes, eran resistentes _y eran nacionales._ Para explotar los yacimientos de hierro de Lyn, surgió el primer horno de fundición en 1643; al poco tiempo, ya Massachusetts abastecía de hierro a toda la región. Como los estímulos a la producción textil no parecían suficientes, esta colonia optó por la coacción: en 1655, dictó una ley que ordenaba que cada familia tuviese, bajo la amenaza de penas graves, por lo menos un hilandero en continua e intensa actividad. Cada condado de Virginia estaba obligado, en esa misma época, a seleccionar niños para instruirlos en la manufactura textil. Al mismo tiempo, se prohibía la exportación de los cueros, para que se convirtieran, fronteras adentro, en botas, correas y monturas. 
+
+«Las desventajas con que tiene que luchar la industria colonial proceden de cualquier parte menos de la política colonial inglesa», 
+
+> 57 Citado por André Gunder Frank, _Capitalism and Underdevelopment in Latin America_ , Nueva York, 1967. 
+
+260 
+

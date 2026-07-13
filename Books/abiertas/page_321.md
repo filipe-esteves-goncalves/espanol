@@ -1,0 +1,12 @@
+LA ESTRUCTURA CONTEMPORÁNEA DEL DESPOJO 
+
+perpetuación del vigente régimen de tenencia de la tierra no sólo agudiza el crónico problema de la baja productividad rural, por el desperdicio de tierra y capital en las grandes haciendas improductivas y el desperdicio de mano de obra en la proliferación de los minifundios, sino que además implica un drenaje caudaloso y creciente de trabajadores desocupados en dirección a las ciudades. El subempleo rural se vuelca en el subempleo urbano. Crecen la burocracia y las poblaciones marginales, donde van a parar, vertedero sin fondo, los hombres despojados del derecho de trabajo. Las fábricas no brindan refugio a la mano de obra excedente, pero la existencia de este vasto ejército de reserva siempre disponible permite pagar salarios varias veces más bajos que los que ganan los obreros norteamericanos o alemanes. Los salarios pueden continuar siendo bajos aunque aumente la productividad, y la productividad aumenta a costa de la disminución de la mano de obra. La industrialización «satelizada» tiene un carácter excluyente: _las masas se multiplican a ritmo de vértigo, en esta región que ostenta el más alto índice de crecimiento demográfico del planeta, pero el desarrollo del capitalismo dependiente –un viaje con más náufragos que navegantes– margina mucha más gente que la que es capaz de integrar._ La proporción de trabajadores de la industria manufacturera dentro del total de la población activa latinoamericana _disminuye en vez de aumentar_ : había un 14,5% de trabajadores en la década del cincuenta; hoy sólo hay un once y medio por ciento<sup>102</sup> _._ En Brasil, según un estudio reciente, «el número total de _nuevos empleos_ que habría que crear sería de un millón y medio _por año_ durante la próxima década»<sup>103</sup> . Pero el _total_ de trabajadores empleados por las fábricas de Brasil, el país más industrializado de América Latina, suma, sin embargo, apenas dos millones y medio. 
+
+Es multitudinaria la invasión de los brazos provenientes de las zonas más pobres de cada país; las ciudades excitan y defraudan las expectativas de trabajo de familias enteras, atraídas por la esperanza de elevar su nivel de vida y conseguirse un sitio en el gran circo mágico de la civilización urbana. Una escalera mecánica es la revela- 
+
+> 102 Naciones Unidas, CEPAL, _op. cit._ 
+
+> 103 F. S. O’Brien, _The Brazilian Population and Labor Force in 1968_ , documento para discusión interna, Ministério do Planejamento e Coordenação Geral, Río de Janeiro, 1969. 
+
+321 
+

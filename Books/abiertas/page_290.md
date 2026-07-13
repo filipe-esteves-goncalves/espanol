@@ -1,0 +1,12 @@
+EDUARDO GALEANO 
+
+varios bancos nacionales adquiridos por el City en los últimos tiempos. El Chase Manhattan Bank, del grupo Rockefeller, adquirió en 1962 el Banco Lar Brasileiro, con treinta y cuatro sucursales en Brasil; en 1964, el Banco Continental, con cuarenta y dos agencias en Perú; en 1967, el Banco del Comercio, con ciento veinte sucursales en Colombia y Panamá, y el Banco Atlántida, con veinticuatro agencias en Honduras; en 1968, el Banco Argentino de Comercio. La revolución cubana había nacionalizado veinte agencias bancarias de los Estados Unidos, pero los bancos se han recuperado con creces de aquel duro golpe: sólo en el curso de 1968, más de setenta nuevas filiales de bancos norteamericanos fueron abiertas en América Central, el Caribe y los países más pequeños de América del Sur. 
+
+Es imposible conocer el simultáneo aumento de las actividades paralelas –subsidiarias, _holdings_ , financieras, oficinas de representación– en su magnitud exacta, pero se sabe que en igual o mayor proporción han crecido los fondos latinoamericanos absorbidos por bancos que, aunque no operan abiertamente como sucursales, están controlados desde fuera a través de decisivos paquetes de acciones o por la apertura de líneas externas de crédito severamente condicionadas. 
+
+Toda esta invasión bancaria sirve para desviar el ahorro latinoamericano hacia las empresas norteamericanas que operan en la región, mientras las empresas nacionales caen estranguladas por la falta de crédito. Los departamentos de relaciones públicas de varios bancos norteamericanos que operan en el exterior pregonan, sin rubores, que su propósito más importante consiste en canalizar el ahorro interno de los países donde operan, para el uso de las corporaciones multinacionales que son clientes de sus casas matrices<sup>37</sup> . Echemos al vuelo la imaginación: ¿podría un banco latinoamericano instalarse en Nueva York para captar el ahorro nacional de los Estados Unidos? La burbuja estalla en el aire: esta insólita aventura está expresamente prohibida. Ningún banco extranjero puede operar, en Estados Unidos, como receptor de depósitos de los ciudadanos norteamericanos. En cambio, los bancos de los Estados Unidos disponen a su antojo, a través de las numerosas filiales, del ahorro nacional latinoamericano. América Latina vela por la norteamericanización 
+
+> 37 Robert A. Bennett y Karen Almonti, _International Activities of United States Banks_ , en _The American Banker_ , Nueva York, 1969. 
+
+290 
+

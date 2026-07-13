@@ -1,0 +1,12 @@
+LAS FUENTES SUBTERRÁNEAS DEL PODER 
+
+peligro. La bauxita de Arkansas vale el doble que la bauxita de Guyana. Los Estados Unidos disponen de muy poca bauxita en su territorio; utilizando materia prima ajena y muy barata, producen, en cambio, casi la mitad del aluminio que se elabora en el mundo. 
+
+Para abastecerse de la mayor parte de los minerales estratégicos que se consideran de valor crítico para su potencial de guerra, los Estados Unidos dependen de las fuentes extranjeras. «El motor de retropropulsión, la turbina de gas y los reactores nucleares tienen hoy una enorme influencia sobre la demanda de materiales que sólo pueden ser obtenidos en el exterior», dice Magdoff en este sentido<sup>8</sup> . La imperiosa necesidad de minerales estratégicos, imprescindibles para salvaguardar el poder militar y atómico de los Estados Unidos, aparece claramente vinculada a la compra masiva de tierras, por medios generalmente fraudulentos, en la Amazonia brasileña. En la década del 60, numerosas empresas norteamericanas, conducidas de la mano por aventureros y contrabandistas profesionales, se abatieron en un _rush_ febril sobre esta selva gigantesca. Previamente, en virtud del acuerdo firmado en 1964, los aviones de la Fuerza Aérea de los Estados Unidos habían sobrevolado y fotografiado toda la región. Habían utilizado equipos de cintilómetros para detectar los yacimientos de minerales radiactivos por la emisión de ondas de luz de intensidad variable, electromagnetómetros para radiografiar el subsuelo rico en minerales no ferrosos y magnetómetros para descubrir y medir el hierro. Los informes y las fotografías obtenidas en el relevamiento de la extensión y la profundidad de las riquezas secretas de la Amazonia fueron puestos en manos de las empresas privadas interesadas en el asunto, gracias a los buenos servicios del _Geological Survey_ del gobierno de los Estados Unidos<sup>9</sup> . En la inmensa región se comprobó la existencia de oro, plata, diamantes, gipsita, hematita, magnetita, tantalio, titanio, torio, uranio, cuarzo, cobre, manganeso, plomo, sulfatos, potasios, bauxita, cinc, circonio, cromo y mercurio. Tanto se abre el cielo desde la jungla virgen de Mato Grosso hasta las llanuras del sur de Goiás que, según deliraba la revista _Time_ en su última edición latinoamericana de 1967, se puede ver al mismo tiem- 
+
+> 8 Harry Magdoff, _op. cit._ 
+
+> 9 Hermano Alves, _Aerofotogrametria_ , en _Correio da Manhã_ , Río de Janeiro, 8 de junio de 1967. 
+
+179 
+

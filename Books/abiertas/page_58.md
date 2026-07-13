@@ -1,0 +1,12 @@
+EDUARDO GALEANO 
+
+EL DERRAMAMIENTO DE LA SANGRE Y DE LAS LÁGRIMAS: Y SIN EMBARGO, EL PAPA HABÍA RESUELTO QUE LOS INDIOS TENÍAN ALMA 
+
+En 1581, Felipe II había afirmado, ante la audiencia de Guadalajara, que ya un tercio de los indígenas de América había sido aniquilado, y que los que aún vivían se veían obligados a pagar tributos por los muertos. El monarca dijo, además, que los indios eran comprados y vendidos. Que dormían a la intemperie. Que las madres mataban a sus hijos para salvarlos del tormento en las minas<sup>43</sup> . Pero la hipocresía de la Corona tenía menos límites que el Imperio: la Corona recibía una quinta parte del valor de los metales que arrancaban sus súbditos en toda la extensión del Nuevo Mundo hispánico, además de otros impuestos, y otro tanto ocurría, en el siglo XVIII, con la Corona portuguesa en tierras de Brasil. La plata y el oro de América penetraron como un ácido corrosivo, al decir de Engels, por todos los poros de la sociedad feudal moribunda en Europa, y al servicio del naciente mercantilismo capitalista los empresarios mineros convirtieron a los indígenas y a los esclavos negros en un numerosísimo «proletariado externo» de la economía europea. La esclavitud grecorromana resucitaba en los hechos, en un mundo distinto; al infortunio de los indígenas de los imperios aniquilados en la América hispánica hay que sumar el terrible destino de los negros arrebatados a las aldeas africanas para trabajar en Brasil y en las Antillas. _La economía colonial latinoamericana dispuso de la mayor concentración de fuerza de trabajo hasta entonces conocida, para hacer posible la mayor concentración de riqueza de que jamás haya dispuesto civilización alguna en la historia mundial._ 
+
+Aquella violenta marea de codicia, horror y bravura no se abatió sobre estas comarcas sino al precio del genocidio nativo: las investigaciones recientes mejor fundadas atribuyen al México precolombino una población que oscila entre los veinticinco y treinta millones, y se estima que había una cantidad semejante de indios en la región andina; América Central y las Antillas contaban entre diez y trece millones de habitantes. _Los indios de las Américas sumaban no menos de setenta millones, y quizá más, cuando los conquistadores extranjeros aparecieron en el horizonte; un siglo y medio después se habían reduci-_ 
+
+> 43 John Collier, _The Indians of America_ , Nueva York, 1947. 
+
+58 
+

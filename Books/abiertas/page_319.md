@@ -1,0 +1,12 @@
+LA ESTRUCTURA CONTEMPORÁNEA DEL DESPOJO 
+
+gía recibiendo técnicas _que son del dominio público y que se importan como licencias de conocimiento especializado..._ »<sup>99</sup> . 
+
+Es altísimo, en varios sentidos, el costo de la dependencia tecnológica: también lo es en dólares contantes y sonantes, aunque las estimaciones no resultan nada fáciles por los múltiples escamoteos que las empresas practican en sus declaraciones de remesas al exterior. Las cifras oficiales indican, no obstante, que el drenaje de dólares por asistencia técnica se multiplicó por quince, en México, entre 1950 y 1964, y en el mismo período las nuevas inversiones no llegaron siquiera a duplicarse. Las tres cuartas partes del capital extranjero en México aparecen, hoy, destinadas a la industria manufacturera; en 1950, la proporción era de la cuarta parte. Esta concentración de recursos en la industria sólo implica una modernización refleja, con tecnología de segunda mano, que el país paga como si fuera de primerísima. La industria automotriz ha drenado de México mil millones de dólares, de una u otra manera, pero un funcionario del sindicato de los automóviles en Estados Unidos recorrió la nueva planta de la General Motors en Toluca, y escribió después: «Fue peor que arcaico. Peor, porque fue deliberadamente arcaico, con lo obsoleto cuidadosamente planeado... Las plantas mexicanas son equipadas deliberadamente con maquinaria de baja productividad»<sup>100</sup> . ¿Qué decir de la gratitud que América Latina debe a la Coca-Cola, la Pepsi o la Crush, que cobran carísimas licencias industriales a sus concesionarios para proporcionarles una pasta que se disuelve en agua y se mezcla con azúcar y gas? 
+
+> 99 Raúl Prebisch, _La cooperación internacional en el desarrollo latinoamericano_ , en _Desarrollo_ , Bogotá, enero de 1970. (El subrayado es mío.) 
+
+- 100 Leo Fenster, en julio de 1969. Citado por André Gunder Frank, _Lumpenburguesía: lumpendesarrollo_ , Montevideo, 1970. Las filiales extranjeras resultan de todos modos infinitamente más modernas que las empresas nacionales. En la industria textil, por ejemplo, uno de los últimos reductos del capital nacional, es bajísimo el grado de automatización. Según la CEPAL, en 1962 y 1963 cuatro países de Europa invirtieron en nuevos equipos para su industria textil una suma seis veces mayor que la que invirtió con el mismo fin, en 1964, toda América Latina. 
+
+319 
+

@@ -1,0 +1,12 @@
+LAS FUENTES SUBTERRÁNEAS DEL PODER 
+
+do de subir. _El acero se produce en los centros ricos del mundo, y el hierro en los suburbios pobres; el acero paga salarios de «aristocracia obrera» y el hierro, jornales de mera subsistencia._ 
+
+Gracias a la información que recogió y divulgó, allá por 1910, un Congreso Internacional de Geología reunido en Estocolmo, los hombres de negocios de los Estados Unidos pudieron por primera vez evaluar las dimensiones de los tesoros escondidos bajo el suelo de una serie de países, uno de los cuales, quizás el más tentador, era Brasil. Muchos años después, en 1948, la embajada de los Estados Unidos creó un cargo nuevo en Brasil, el _agregado mineral_ , que de entrada tuvo por lo menos tanto trabajo como el agregado militar o el cultural: tanto, que rápidamente fueron designados dos agregados minerales en lugar de uno<sup>28</sup> . Poco después, la Bethlehem Steel recibía del gobierno de Dutra los espléndidos yacimientos de manganeso de Amapá. En 1952, el acuerdo militar firmado con los Estados Unidos prohibió a Brasil vender las materias primas de valor estratégico –como el hierro– a los países socialistas. Ésta fue una de las causas de la trágica caída del presidente Getulio Vargas, que desobedeció esta imposición vendiendo hierro a Polonia y Checoslovaquia, en 1953 y 1954, a precios más altos que los que pagaban los Estados Unidos. En 1957, la Hanna Mining Co. compró, por seis millones de dólares, la mayoría de las acciones de una empresa británica, la Saint John Mining Co., que se dedicaba a la explotación del oro de Minas Gerais desde los lejanos tiempos del Imperio. La Saint John operaba en el valle de Paraopeba, donde yace la mayor concentración de hierro del mundo entero, evaluada en doscientos mil millones de dólares. La empresa inglesa no estaba legalmente habilitada para explotar esta riqueza fabulosa, ni lo estaría la Hanna, de acuerdo con claras disposiciones constitucionales y legales que Duarte Pereira enumera en su obra sobre el tema. Pero éste había sido, según se supo luego, el negocio del siglo. 
+
+George Humphrey, director presidente de la Hanna, era por entonces miembro prominente del gobierno de los Estados Unidos, como secretario del Tesoro y como director del Eximbank, el banco oficial para la financiación de las operaciones de comercio exterior. 
+
+> 28 Osny Duarte Pereira, _Ferro e Independencia. Um desafío a dignidade nacional_ , Río de Janeiro, 1967. 
+
+199 
+

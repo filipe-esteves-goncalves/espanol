@@ -1,0 +1,16 @@
+EDUARDO GALEANO 
+
+en lonjas secas, iba ganando consumidores extranjeros, los consumidores argentinos notaban el cambio. Se crearon impuestos al consumo interno de carne, a la par que se desgravaban las exportaciones; en pocos años, el precio de los novillos se multiplicó por tres y las estancias valorizaron sus suelos. Los gauchos estaban acostumbrados a cazar libremente novillos a cielo abierto, en la pampa sin alambrados, para comer el lomo y tirar el resto, con la sola obligación de entregar el cuero al dueño del campo. Las cosas cambiaron. La reorganización de la producción implicaba el sometimiento del gaucho nómada a una nueva dependencia servil: un decreto de 1815 estableció que todo hombre de campo que no tuviera propiedades sería reputado sirviente, con la obligación de llevar papeleta visada por su patrón cada tres meses. O era sirviente, o era vago, y a los vagos se los enganchaba, por la fuerza, en los batallones de frontera<sup>30</sup> . El criollo bravío, que había servido de carne de cañón en los ejércitos patriotas, quedaba convertido en paria, en peón miserable o en milico de fortín. O se rebelaba, lanza en mano, alzándose en el remolino de las montoneras<sup>31</sup> . Este gaucho arisco, desposeído de todo salvo la gloria y el coraje, nutrió las cargas de caballería que una 
+
+- 30 Juan Álvarez, _Las guerras civiles argentinas_ , Buenos Aires, 1912. 
+
+- 31 La montonera «nace en escampado como los remolinos. Arremete, brama y troza como los remolinos, y se detiene, repentina, y muere como ellos» (Dardo de la Vega Díaz, _La Rioja heroica_ , Mendoza, 1955). José Hernández, que fue soldado de la causa federal, cantó en el _Martín Fierro_ , el más popular de los libros argentinos, las desdichas del gaucho desterrado de su querencia y perseguido por la autoridad: 
+
+_Vive el águila en su nido, el tigre vive en la selva, el zorro en la cueva agena, y en su destino incostante, sólo el gaucho vive errante donde la suerte lo lleva._ 
+
+#### Porque: 
+
+_Para él son los calabozos, para él las duras prisiones, en su boca no hay razones aunque la razón le sobre, que son campanas de palo las razones de los pobres._ 
+
+238 
+

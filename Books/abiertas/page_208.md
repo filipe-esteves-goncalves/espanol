@@ -1,0 +1,12 @@
+EDUARDO GALEANO 
+
+como bien dice Jesús Silva Herzog, «México no es el deudor de esas compañías piratas, sino su acreedor legítimo».<sup>43</sup> En 1949, la Standard Oil interpuso veto a un préstamo que los Estados Unidos iban a conceder a Pemex, y muchos años después, ya cerradas las heridas por obra de las generosas indemnizaciones, Pemex vivió una experiencia semejante ante el Banco Interamericano de Desarrollo. 
+
+Uruguay fue el país que creó la primera refinería estatal en América Latina. La ANCAP, Administración Nacional de Combustibles, Alcohol y Portland, había nacido en 1931, y la refinación y la venta de petróleo crudo figuraban entre sus funciones principales. Era la respuesta nacional a una larga historia de abusos del trust en el río de la Plata. Paralelamente, el Estado contrató la compra de petróleo barato en la Unión Soviética. El cártel financió de inmediato una furiosa campaña de desprestigio contra el ente industrial del Estado uruguayo y comenzó su tarea de extorsión y amenaza. Se afirmaba que el Uruguay no encontraría quien le vendiera las maquinarias y que se quedaría sin petróleo crudo, que el Estado era un pésimo administrador, y que no podía hacerse cargo de tan complicado negocio. El golpe palaciego de marzo de 1933 despedía cierto olor a petróleo: la dictadura de Gabriel Terra anuló el derecho de la ANCAP a monopolizar la importación de combustibles, y en enero de 1938 firmó los _convenios secretos_ con el cártel, ominosos acuerdos que fueron ignorados por el público hasta un cuarto de siglo después y que todavía están en vigencia. De acuerdo con sus términos, el país está obligado a comprar un cuarenta por ciento del petróleo crudo sin licitación y donde lo indiquen la Standard Oil, la Shell, la Atlantic y la Texaco, a los precios que el cártel fija. Además, el Estado, que conserva el monopolio de la refinación, paga todos los gastos de las empresas, incluyendo la propaganda, los salarios privilegiados y los lujosos muebles de sus oficinas<sup>44</sup> . _Esso es progreso_ , canta la televisión, y el bombardeo de los avisos no cuesta a la Standard Oil ni un solo centavo. El abogado del Banco de la República 
+
+> 43 Jesús Silva Herzog, _Historia de la expropiación de las empresas petroleras_ , México, 1964. 
+
+> 44 Vivian Trías, _Imperialismo y petróleo en el Uruguay_ , Montevideo, 1963. Véase también el discurso del diputado Enrique Erro en el diario de sesiones de la Cámara de Representantes, núm. 1211, tomo 577, Montevideo, 8 de septiembre de 1966. 
+
+208 
+

@@ -1,0 +1,6 @@
+tina, 255. – Proteccionismo y librecambio en Estados Unidos: el éxito no fue la obra de una mano invisible, 259 
+
+LA ESTRUCTURA CONTEMPORÁNEA DEL DESPOJO ................................ 267 Un talismán vacío de poderes, 267. – Son los centinelas quienes abren las puertas: la esterilidad culpable de la burguesía nacional, 271. – ¿Qué bandera flamea sobre las máquinas?, 279. – El bombardeo del Fondo Monetario Internacional facilita el desembarco de los conquistadores, 284. – Los Estados Unidos cuidan su ahorro interno, pero disponen del ajeno: la invasión de los bancos, 289. – Un imperio que importa capitales, 291. – Los tecnócratas exigen la bolsa o la vida con más eficacia que los «marines», 294. – La industrialización no altera la organización de la desigualdad en el mercado mundial, 306. – La diosa tecnología no habla español, 315. – La marginación de los hombres y las regiones, 320. – La integración de América Latina bajo la bandera de las barras y las estrellas, 326. – «Nunca seremos dichosos, ¡nunca!», había profetizado Simón Bolívar, 334 
+
+SIETE AÑOS DESPUÉS .......................................................................... 339 INDICE ANALÍTICO .............................................................................. 365 
+

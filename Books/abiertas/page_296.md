@@ -1,0 +1,12 @@
+EDUARDO GALEANO 
+
+dial, en buenas condiciones competitivas, sin recurrir al expediente de la autofilantropía. Las posteriores «listas positivas» han hecho posible, a través de la _ayuda_ , la venta de ciertas manufacturas norteamericanas a precios que son entre un treinta y un cincuenta por ciento más altos que los de otras fuentes internacionales. La _atadura_ del financiamiento –dice la OEA en el documento ya citado– otorga «un subsidio general a las exportaciones norteamericanas». Las firmas fabricantes de maquinarias sufren serias desventajas de precios en el mercado internacional, según confiesa el Departamento de Comercio de los Estados Unidos, «a menos que puedan aprovechar el financiamiento más liberal que se puede obtener bajo los diversos programas de ayuda»<sup>47</sup> . Cuando Richard Nixon prometió _desatar_ la ayuda, en un discurso de fines de 1969, sólo se refirió a la posibilidad de que las compras pudieran efectuarse, alternativamente, en los países latinoamericanos. Éste ya era, desde antes, el caso de los préstamos que el Banco Interamericano de Desarrollo otorga con cargo a su Fondo para Operaciones Especiales. Pero la experiencia muestra que los Estados Unidos, o las filiales latinoamericanas de sus corporaciones, resultan siempre los proveedores finalmente elegidos en los contratos. Los préstamos de la AID, el Eximbank y, en su mayoría, los del BID, exigen también que no menos de la mitad de los embarques se realice en barcos de bandera norteamericana. Los fletes de los buques de los Estados Unidos resultan tan caros que en algunos casos llegan hasta a duplicar los precios de las líneas navieras más baratas disponibles en el mundo. Normalmente, son también norteamericanas las empresas que aseguran las mercaderías transportadas, y norteamericanos los bancos a través de los cuales las operaciones se concretan. 
+
+La Organización de Estados Americanos ha hecho una reveladora estimación de la magnitud de la ayuda _real_ que América Latina recibe<sup>48</sup> . Una vez separada la paja del grano, se llega a la conclusión de que apenas el 38 por ciento de la ayuda _nominal_ puede considerarse ayuda _real._ Los préstamos para industria, minería, comunicaciones, y los créditos compensatorios, sólo constituyen ayuda en una quinta parte del total autorizado. En el caso del Eximbank, la ayuda viaja de sur a norte: el financiamiento otorgado por el Eximbank, dice 
+
+> 47 _International Commerce_ , 17 de julio de 1967. 
+
+> 48 Secretaría General de la OEA, _op. cit._ 
+
+296 
+

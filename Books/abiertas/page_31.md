@@ -1,0 +1,12 @@
+FIEBRE DEL ORO, FIEBRE DE LA PLATA 
+
+Nació el mito de Eldorado, el monarca bañado en oro que los indígenas inventaron para alejar a los intrusos: desde Gonzalo Pizarro hasta Walter Raleigh, muchos lo persiguieron en vano por las selvas y las aguas del Amazonas y el Orinoco. El espejismo del «cerro que manaba plata» se hizo realidad en 1545, con el descubrimiento de Potosí, pero antes habían muerto, vencidos por el hambre y por la enfermedad o atravesados a flechazos por los indígenas, muchos de los expedicionarios que intentaron, infructuosamente, dar alcance al manantial de la plata remontando el río Paraná. 
+
+Había, sí, oro y plata en grandes cantidades, acumulados en la meseta de México y en el altiplano andino. Hernán Cortés reveló para España, en 1519, la fabulosa magnitud del tesoro azteca de Moctezuma, y quince años después llegó a Sevilla el gigantesco rescate, un aposento lleno de oro y dos de plata, que Francisco Pizarro hizo pagar al inca Atahualpa antes de estrangularlo. Años antes, con el oro arrancado de las Antillas había pagado la Corona los servicios de los marinos que habían acompañado a Colón en su primer viaje<sup>6</sup> . Finalmente, la población de las islas del Caribe dejó de pagar tributos, porque desapareció: los indígenas fueron completamente exterminados en los lavaderos de oro, en la terrible tarea de revolver las arenas auríferas con el cuerpo a medias sumergido en el agua, o roturando los campos hasta más allá de la extenuación, con la espalda doblada sobre los pesados instrumentos de labranza traídos desde España. Muchos indígenas de la Dominicana se anticipaban al destino impuesto por sus nuevos opresores blancos: mataban a sus hijos y se suicidaban en masa. El cronista oficial Fernández de Oviedo interpretaba así, a mediados del siglo XVI, el holocausto de los antillanos: «Muchos dellos, por su pasatiempo, se mataron con ponzoña por no trabajar, y otros se ahorcaron por sus manos propias»<sup>7</sup> . 
+
+> 6 Earl J. Hamilton, _American Treasure and the Price Revolution in Spain (15011650)_ , Massachusetts, 1934. 
+
+- 7 Gonzalo Fernández de Oviedo, _Historia general y natural de las Indias_ , Madrid, 1959. La interpretación hizo escuela. Me asombra leer, en el último libro del técnico francés René Dumont, _Cuba, est-il socialiste?_ , París, 1970: «Los indios no fueron totalmente exterminados. Sus genes subsisten en los cromosomas cubanos. Ellos sentían una tal aversión por la tensión que exige el trabajo continuo, que algunos se suicidaron antes que aceptar el trabajo forzado...». 
+
+31 
+

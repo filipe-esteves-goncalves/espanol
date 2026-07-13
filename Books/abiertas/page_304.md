@@ -1,0 +1,12 @@
+EDUARDO GALEANO 
+
+tendrá un efecto indebidamente restrictivo sobre la expansión de la iniciativa y la empresa privadas». Se condicionan los préstamos a la aplicación de la receta estabilizadora del FMI y al pago puntual de la deuda externa; los préstamos del Banco son incompatibles con la adopción de políticas de control de las ganancias de las empresas, «tan restrictivas que las utilidades no pueden operar sobre una base clara, y aun menos impulsar la expansión futura»<sup>66</sup> . Desde 1968, el Banco Mundial ha derivado en gran medida sus empréstitos a la promoción del control de la natalidad, los planes de educación, los negocios agrícolas y el turismo. 
+
+_Como todas las demás máquinas traganíqueles de las altas finanzas internacionales, el Banco constituye también un eficaz instrumento de extorsión_ , en beneficio de poderes muy concretos. Sus sucesivos presidentes han sido, desde 1946, prominentes hombres de negocios de los Estados Unidos. Eugene R. Black, que dirigió el Banco Mundial desde 1949 a 1962, ocupó posteriormente los directorios de numerosas corporaciones privadas, una de las cuales, la Electric Bond and Share, es el más poderoso monopolio de la energía eléctrica del planeta<sup>67</sup> . Casualmente, el Banco Mundial obligó a Guatemala, en 1966, a aceptar un _acuerdo honroso_ con la Electric Bond and Share, como condición previa para la puesta en práctica del proyecto hidroeléctrico de Jurún-Marinalá: el _acuerdo honroso_ consistía en el pago de una indemnización abultada por los daños que la empresa pudiera sufrir en una cuenca que le había sido gratuitamente otorgada pocos años atrás, y, además, incluía un compromiso del Estado en el sentido de no impedir que la Bond and Share continuara fijando libremente las tarifas de la electricidad en el país. Casualmente también, el Banco Mundial impuso a Colombia, en 1967, el pago de treinta y seis millones de dólares de indemnización a la Compañía Colombiana de Electricidad, filial de la Bond and Share, por sus envejecidas maquinarias recién nacionalizadas. El Estado colombiano compró así lo que le pertenecía, porque la concesión a la empresa había vencido en 1944 _._ 
+
+- 66 The World Bank, IFC and IDA, _op. cit._ 
+
+> 67 «Nuestros programas de ayuda al extranjero... estimulan el desarrollo de nuevos mercados para las sociedades americanas... y orientan la economía de los beneficiarios hacia un sistema de libre empresa en el que las firmas americanas puedan prosperar.» Eugene R. Black en _Columbia Journal of World Business_ , vol. I, 1965. 
+
+304 
+

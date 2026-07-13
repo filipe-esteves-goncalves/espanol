@@ -1,0 +1,12 @@
+EDUARDO GALEANO 
+
+### LOS TECNÓCRATAS EXIGEN LA BOLSA O LA VIDA CON MÁS EFICACIA QUE LOS «MARINES» 
+
+Al llevarse muchos más dólares de los que traen, las empresas contribuyen a agudizar la crónica hambre de divisas de la región; los países «beneficiados» se descapitalizan en vez de capitalizarse. Entra en acción, entonces, el mecanismo del empréstito. Los organismos internacionales de crédito desempeñan una función muy importante en el desmantelamiento de las débiles ciudadelas defensivas de la industria latinoamericana de capital nacional, y en la consolidación de las estructuras neocoloniales. La _ayuda_ funciona como el filántropo del cuento, que le había puesto una pata de palo a su chanchito, pero era porque se lo estaba comiendo de a poco. El déficit de la balanza de pagos de los Estados Unidos, provocado por los gastos militares y la ayuda extranjera, crítica espada de Damocles sobre la prosperidad norteamericana, _hace posible, al mismo tiempo, esa prosperidad_ : el Imperio envía al exterior sus _marines_ para salvar los dólares de sus monopolios cuando corren peligro y, más eficazmente, difunde también sus tecnócratas y sus empréstitos para ampliar los negocios y asegurar las materias primas y los mercados. 
+
+El capitalismo de nuestros días exhibe, en su centro universal de poder, una identidad evidente de los monopolios privados y el aparato estatal<sup>43</sup> . Las corporaciones multinacionales utilizan directamente al Estado para acumular, multiplicar y concentrar capitales, profundizar la revolución tecnológica, militarizar la economía y, mediante diversos mecanismos, asegurar el éxito de la norteamericanización del mundo capitalista. El Eximbank, Banco de Exportación e Importación, la AID, Agencia para el Desarrollo Internacional, y otros organismos menores cumplen sus funciones en este último sentido; también operan así algunos organismos presuntamente internacionales en los que los Estados Unidos ejercen su incontestable hegemonía: el Fondo Monetario Internacional y su hermano gemelo, el Banco Internacional de Reconstrucción y Fomento, y el BID, Banco Interamericano de Desarrollo, que se arrogan el derecho de decidir la política económica que han de seguir los países que solicitan los 
+
+> 43 V. A. Cheprakov, _El capitalismo monopolista de Estado_ , Moscú, s. f.; Paul A. Baran y Paul M. Sweezy, _op. cit._ , y Vivian Trías, _op. cit._ 
+
+294 
+

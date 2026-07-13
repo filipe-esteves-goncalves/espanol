@@ -1,0 +1,14 @@
+EL REY AZÚCAR Y OTROS MONARCAS AGRÍCOLAS 
+
+embestidas de millares de soldados nada podían contra las tácticas guerrilleras que hicieron invencible, hasta 1693, el vasto refugio. El reino independiente de los Palmares –convocatoria a la rebelión, bandera de la libertad– se había organizado como un estado «a semejanza de los muchos que existían en África en el siglo XVII»<sup>46</sup> . Se extendía desde las vecindades del Cabo de Santo Agostinho, en Pernambuco, hasta la zona norteña del río San Francisco, en Alagoas: equivalía a la tercera parte del territorio de Portugal y estaba rodeado por un espeso cerco de selvas salvajes. El jefe máximo era elegido entre los más hábiles y sagaces: reinaba el hombre «de mayor prestigio y felicidad en la guerra o en el mando»<sup>47</sup> . En plena época de las plantaciones azucareras omnipotentes, Palmares era el único rincón de Brasil donde se desarrollaba el policultivo. Guiados por la experiencia adquirida por ellos mismos o por sus antepasados en las sabanas y en las selvas tropicales de África, los negros cultivaban el maíz, el boniato, los frijoles, la mandioca, las bananas y otros alimentos. No en vano, la destrucción de los cultivos aparecía como el objetivo principal de las tropas coloniales lanzadas a la recuperación de los hombres que, tras la travesía del mar con cadenas en los pies, habían desertado de las plantaciones. 
+
+La abundancia de alimentos de Palmares contrastaba con las penurias que, en plena prosperidad, padecían las zonas azucareras del litoral. Los esclavos que habían conquistado la libertad la defendían con habilidad y coraje porque compartían sus frutos: la propiedad de la tierra era comunitaria y no circulaba el dinero en el estado negro. «No figura en la historia universal ninguna rebelión de esclavos tan prolongada como la de Palmares. La de Espartaco, que conmovió el sistema esclavista más importante de la antigüedad, duró dieciocho meses.»<sup>48</sup> Para la batalla final, la corona portuguesa movilizó el mayor ejército conocido hasta la muy posterior independencia de Brasil. No menos de diez mil personas defendieron la última fortaleza de Palmares; los sobrevivientes fueron degollados, arrojados a los precipicios o vendidos a los mercaderes de Río de Janeiro y Buenos Aires. Dos años después, el jefe Zumbi, a quien los esclavos consideraban 
+
+> 46 Edison Carneiro, _O quilombo dos Palmares_ , Río de Janeiro, 1966. 
+
+> 47 Nina Rodrigues, _Os africanos no Brasil_ , Río de Janeiro, 1932. 
+
+> 48 Décio de Freitas, _A guerra dos escravos_ , inédito. 
+
+113 
+

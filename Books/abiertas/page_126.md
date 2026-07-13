@@ -1,0 +1,12 @@
+EDUARDO GALEANO 
+
+año de São Luiz cargando un millón de libras de materia prima textil. Mientras nacía el siglo pasado, la crisis de la economía minera proporcionaba al algodón mano de obra esclava en abundancia; agotados el oro y los diamantes del sur, Brasil parecía resucitar en el norte. El puerto floreció, produjo poetas en medida suficiente como para que se lo llamara la Atenas de Brasil<sup>64</sup> , pero el hambre llegó, con la prosperidad, a la región de Maranhão, donde nadie se ocupaba ya de cultivar alimentos. En algunos períodos sólo hubo arroz para comer<sup>65</sup> . Como había empezado, esta historia terminó: el colapso llegó de súbito. La producción de algodón en gran escala en las plantaciones del sur de los Estados Unidos, con tierras de mejor calidad y medios mecánicos para desgranar y enfardar el producto, abatió los precios a la tercera parte y Brasil quedó fuera de competencia. Una nueva etapa de prosperidad se abrió a raíz de la Guerra de Secesión, que interrumpió los suministros norteamericanos, pero duró poco. Ya en el siglo XX, entre 1934 y 1939, la producción brasileña de algodón se incrementó a un ritmo impresionante: de 126 mil toneladas pasó a más de 320 mil. Entonces sobrevino un nuevo desastre: los Estados Unidos arrojaron sus excedentes al mercado mundial y el precio se derrumbó. 
+
+Los excedentes agrícolas norteamericanos son, como se sabe, el resultado de los fuertes subsidios que el Estado otorga a los productores; a precios de _dumping_ y como parte de los programas de ayuda exterior, los excedentes se derraman por el mundo. Así, el algodón fue el principal producto de exportación de Paraguay hasta que la competencia ruinosa del algodón norteamericano lo desplazó de los mercados y la producción paraguaya se redujo, desde 1952, a la mitad. Así perdió Uruguay el mercado canadiense para su arroz. Así el trigo de Argentina, un país que había sido el granero del planeta, perdió un peso decisivo en los mercados internacionales. El _dumping_ norteamericano del algodón no ha impedido que una empresa norteamericana, la Anderson Clayton and Co., detente el imperio de este producto en América Latina, ni ha impedido que, a través de ella, los Estados Unidos compren algodón mexicano para revenderlo a otros países. 
+
+> 64 Roberto C. Simonsen, _op. cit._ 
+
+> 65 Caio Prado Júnior, _Formação do Brasil contemporâneo_ , São Paulo, 1942. 
+
+126 
+

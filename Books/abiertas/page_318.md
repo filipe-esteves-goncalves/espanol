@@ -1,0 +1,12 @@
+EDUARDO GALEANO 
+
+por ejemplo, de la Universidad de Brasilia, abatida en 1964, y la verdad es que no se equivocan los arcángeles blindados que custodian el orden establecido: la política cultural autónoma requiere y promueve, cuando es auténtica, profundos cambios en todas las estructuras vigentes. 
+
+La alternativa consiste en descansar en las fuentes ajenas: la copia simiesca de los adelantos que difunden las grandes corporaciones, en cuyas manos está monopolizada la tecnología más moderna, para crear nuevos productos y para mejorar la calidad o reducir el costo de los productos existentes. El cerebro electrónico aplica infalibles métodos de cálculo para estimar costos y beneficios, y así, por ejemplo, América Latina importa técnicas de producción diseñadas para economizar mano de obra, aunque le sobra la fuerza de trabajo y los desocupados van en camino de constituir una aplastante mayoría en varios países. 
+
+Al controlar las palancas de la tecnología, las grandes corporaciones multinacionales manejan también, por obvias razones, otros resortes claves de la economía latinoamericana. Por supuesto, las casas matrices nunca proporcionan a sus filiales las innovaciones más recientes, ni impulsan, tampoco, una independencia que no les convendría. Una encuesta de _Business International_ , realizada por encargo del BID, llegó a la conclusión de que «es evidente que las subsidiarias de las corporaciones internacionales que operan en la región no realizan esfuerzos significativos en materia de investigación y desarrollo. En efecto, la mayoría de ellas carece de un departamento con esa finalidad y en casos muy contados llevan a cabo labores de adaptación de tecnología, en tanto que otra minoría de empresas –situadas casi invariablemente en Argentina, Brasil y México– realiza modestas actividades de investigación»<sup>98</sup> . Raúl Prebisch advierte que «las empresas norteamericanas en Europa instalan laboratorios y realizan investigaciones que contribuyen a fortalecer la capacidad científica y técnica de esos países, lo que no ha sucedido en América Latina», y denuncia un hecho muy grave: «La inversión nacional –dice–, por su falta de conocimiento especializado [ _know-how_ ], realiza la mayor parte de su transferencia de tecnolo- 
+
+> 98 Gustavo Lagos y otros, _Las inversiones multinacionales en el desarrollo y la integración de América Latina_ , Bogotá, 1968 _._ 
+
+318 
+

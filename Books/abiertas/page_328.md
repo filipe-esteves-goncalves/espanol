@@ -1,0 +1,12 @@
+EDUARDO GALEANO 
+
+ró en conferencia de prensa, y afirmó que exportará vehículos brasileños para varios países de América Latina. Caterpillar, «una firma que ha tratado siempre al mundo como a un solo mercado», dice _Business International_ , no demoró en aprovechar las reducciones de tarifas tan pronto como se fueron negociando, y en 1965 ya suministraba niveladoras y repuestos de tractores, desde su planta de San Pablo a varios países de América del Sur. Con la misma celeridad, Union Carbide irradiaba productos de electrotecnia sobre varios países latinoamericanos, desde su fábrica de México, haciendo uso de las exoneraciones de derechos aduaneros, impuestos y depósitos previos para los intercambios en el área de la ALALC<sup>115</sup> . 
+
+Empobrecidos, incomunicados, descapitalizados y con gravísimos problemas de estructura dentro de cada frontera, los países latinoamericanos abaten progresivamente sus barreras económicas, financieras y fiscales _para que los monopolios, que todavía estrangulan a cada país por separado, puedan ampliar sus movimientos y consolidar una nueva división del trabajo, en escala regional, mediante la especialización de sus actividades por países y por ramas,_ la fijación de dimensiones óptimas para sus empresas filiales, la reducción de los costos, la eliminación de los competidores ajenos al área y la estabilización de los mercados. Las filiales de las corporaciones multinacionales sólo pueden apuntar a la conquista del mercado latinoamericano, en determinados rubros y bajo determinadas condiciones que no afectan la política mundial trazada por sus casas matrices. Como hemos visto en otro capítulo, la división _internacional_ del trabajo continúa funcionando, para América Latina, en los mismos términos de siempre. Sólo se admiten novedades dentro de la región. En la reunión de Punta del Este, los presidentes declararon que «la iniciativa privada extranjera podrá cumplir una función importante para asegurar el logro de los objetivos de la integración», y acordaron que el Banco Interamericano de Desarrollo aumentara «los montos disponibles para créditos de exportación _en el comercio intralatinoamericano»._ 
+
+La revista _Fortune_ evaluaba, en 1967, las «seductoras oportunidades nuevas» que el mercado común latinoamericano abre a los negocios del norte: «En más de una sala de directorio, el mercado 
+
+> 115 _Business International, LAFTA, Key America’s 200 Million Consumers,_ reportaje de investigación, junio de 1966. 
+
+328 
+
