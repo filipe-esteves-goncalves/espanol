@@ -1,0 +1,1 @@
+ tenía veinte años cuando murió estrangulado por orden  del  rey  loco, pocos días antes de la fecha fijada para su matrimonio con Catelyn Tully de Aguasdulces. Obligaron a su padre a presenciar su muerte. Era el heredero legítimo, el primogénito, nacido para dominar aquellas tierras. 

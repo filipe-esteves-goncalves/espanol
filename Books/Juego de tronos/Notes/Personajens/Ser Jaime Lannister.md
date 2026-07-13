@@ -1,0 +1,1 @@
+De cabellos tan brillantes como el oro batido

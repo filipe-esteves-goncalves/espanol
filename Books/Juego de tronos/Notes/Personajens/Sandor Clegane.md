@@ -1,0 +1,1 @@
+ con el espantoso rostro quemado. El muchachito alto 

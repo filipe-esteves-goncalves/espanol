@@ -1,0 +1,1 @@
+el  padre  de  Ned, había tenido un rostro afilado y adusto. El escultor lo había conocido bien cuando vivía. Estaba sentado en pose de tranquila dignidad con los dedos de piedra aferrados a la espada que tenía sobre el regazo, pero en vida todas las espadas le habían fallado. A ambos lados, en dos sepulcros más pequeños, se encontraban sus hijos. 

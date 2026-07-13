@@ -1,0 +1,1 @@
+sólo llegó a cumplir los dieciséis años, era una niña mujer de belleza insuperable. Ned la había querido mucho. Robert, todavía más; estaba destinada a ser su esposa. 
