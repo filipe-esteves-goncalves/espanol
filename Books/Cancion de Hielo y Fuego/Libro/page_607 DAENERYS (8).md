@@ -1,0 +1,14 @@
+Las moscas volaban en lentos círculos en torno a Khal Drogo; zumbaban con un sonido grave, casi inaudible, que a Dany le provocaba un temor insensato. 
+
+El sol brillaba despiadado en lo más alto del cielo. El calor dibujaba ondulaciones en los salientes rocosos de las bajas colinas. Entre los pechos hinchados de Dany corría un hilillo de sudor. Los únicos ruidos que se oían eran los  cascos  de  los caballos, el tintineo rítmico de las campanas en el pelo de Drogo, y las voces lejanas, tras ellos. 
+
+Dany contempló las moscas. 
+
+Eran grandes como abejorros, repugnantes, rojizas, brillantes. Los dothrakis las llamaban «moscas de sangre». Vivían en las zonas pantanosas y en las aguas estancadas, chupaban la sangre a hombres y caballos por igual, y ponían sus huevos en los muertos y en los moribundos. Drogo las detestaba. Cada vez que se le acercaba una, movía la mano con la velocidad de una serpiente, y la atrapaba en el puño. Jamás lo había visto fallar. Luego apretaba los dedos, y cuando volvía  a  abrir  la  mano  la mosca no era más que una mancha rojiza en la palma. 
+
+Una mosca subió en aquel momento por la grupa de su semental, y el caballo agitó la cola furioso para quitársela de encima. Otras zumbaron en torno a Drogo, cada vez más cerca. El _khal_ no reaccionó. Tenía los ojos clavados en  las  colinas lejanas, llevaba las riendas sueltas en las manos. Por debajo del chaleco pintado, un emplasto de hojas de higuera y barro azul reseco le cubría la herida del pecho. Las mujeres de las hierbas se lo habían preparado. La cataplasma de Mirri Maz Duur le picaba y escocía, y Drogo se la había arrancado hacía ya seis días, maldiciendo a la mujer y llamándola _maegi_ . La cataplasma de barro era más calmante, y las mujeres de las hierbas le habían preparado también vino de amapolas. Durante los tres últimos días lo había bebido en grandes cantidades. Y cuando no era vino de amapola, era leche fermentada de yegua, o cerveza de pimienta. 
+
+En cambio, apenas comía, y durante la noche no paraba  de  moverse  y  gemir. Dany notaba que su rostro estaba cada día más macilento. Rhaego se movía inquieto en su vientre, daba patadas como un semental, pero ni siquiera aquello despertaba ya el interés de Drogo como antes. Cada mañana, tras despertar de un sueño agitado, le descubría nuevas arrugas de dolor en el rostro. Y además, el silencio. Aquel silencio la llenaba de miedo. No le había dicho ni una palabra desde que emprendieran la marcha, al amanecer. Si ella le hablaba, no obtenía más respuesta que un gruñido. Y después del mediodía, ni siquiera eso. 
+
+Una de las moscas de sangre se posó sobre la piel desnuda del hombro del _khal_ . Otra descendió volando en círculos, se le posó en el cuello, y avanzó hacia su boca. Khal Drogo se meció en la silla; las campanillas tintinearon; su semental siguió al 
+
