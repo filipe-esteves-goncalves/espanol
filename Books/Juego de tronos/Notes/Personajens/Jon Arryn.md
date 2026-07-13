@@ -1,1 +1,3 @@
 En su juventud, Ned había estado como pupilo en el Nido de Águilas, y Lord Arryn, que no tenía hijos, había sido como un padre para él y para su otro pupilo, Robert 
+
+—Jamás había visto a nadie enfermar tan deprisa —dijo Robert sacudiendo la cabeza—. Organizamos un torneo para celebrar el día del nombre de mi hijo. Si hubieras visto a Jon aquel día, habrías pensado que iba a vivir eternamente. Dos semanas después estaba muerto. La enfermedad pareció inflamarle las entrañas. Lo abrasó por dentro. —Se detuvo junto a una columna, ante la  tumba  de  un  Stark muerto mucho tiempo atrás—. Yo amaba a ese anciano. 

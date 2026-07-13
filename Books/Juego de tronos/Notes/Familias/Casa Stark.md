@@ -18,7 +18,7 @@ Invernalia (Winterfell)
 | [[Branden Stark]]      |               | Hermano de Ned                              |                                                           |                   |                         |
 |                        | Robb          | Hijo de Ned                                 |                                                           |                   | Viento Gris             |
 | [[Jon Nieve]]          | Jon           | Hijo de Ned                                 |                                                           |                   | Fantasma <br>(Ghost)    |
-| [[Sansa]]              |               | Hija de Ned                                 |                                                           |                   | Dama <br>(Lady)         |
+| [[Sansa Stark]]              |               | Hija de Ned                                 |                                                           |                   | Dama <br>(Lady)         |
 | [[Arya Stark]]         |               | Hija de Ned                                 |                                                           |                   | Nymeria (Women warrior) |
 | [[Brandon Stark]]      | Bran          | Hijo de Ned                                 |                                                           |                   |                         |
 | [[Rickon Stark]]             |               | Hijo de Ned                                 |                                                           |                   | Peludo                  |

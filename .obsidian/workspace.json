@@ -22,6 +22,62 @@
             }
           },
           {
+            "id": "c30067952078451a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Juego de tronos/Notes/Ubicaciones/El Muro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "El Muro"
+            }
+          },
+          {
+            "id": "4bc5202316b942e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tywin Lannister.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tywin Lannister"
+            }
+          },
+          {
+            "id": "5c71690d29e84093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Juego de tronos/Notes/Personajens/Tommen Lannister Bareathon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tommen Lannister Bareathon"
+            }
+          },
+          {
+            "id": "a309bfe537b71ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Joffrey Lannister Bareathon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Joffrey Lannister Bareathon"
+            }
+          },
+          {
             "id": "e3433f70eb4f3bd1",
             "type": "leaf",
             "state": {
@@ -33,6 +89,62 @@
               },
               "icon": "lucide-file",
               "title": "Rickon Stark"
+            }
+          },
+          {
+            "id": "fc35950229f00f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Juego de tronos/Notes/Personajens/Robert Arryn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Robert Arryn"
+            }
+          },
+          {
+            "id": "c752eaabb19dff92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Juego de tronos/Notes/Personajens/Robert Baratheon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Robert Baratheon"
+            }
+          },
+          {
+            "id": "0da4588f09f07329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Juego de tronos/Notes/Familias/Casa Stark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Casa Stark"
+            }
+          },
+          {
+            "id": "59570d9d5724c4fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Juego de tronos/Notes/Sansa Stark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sansa Stark"
             }
           }
         ]
@@ -67,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asa sta",
+                "query": "sansa sta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -210,32 +322,32 @@
   },
   "active": "f9af5e037a098d6c",
   "lastOpenFiles": [
+    "Books/Cancion de Hielo y Fuego/Libro/page_51.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_43 EDDARD (1).md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_50.md",
+    "Books/Juego de tronos/Notes/Sansa Stark.md",
     "Books/Juego de tronos/Notes/Familias/Casa Stark.md",
+    "Books/Juego de tronos/Notes/Personajens/Robert Baratheon.md",
+    "Books/Juego de tronos/Notes/Familias/Casa Baratheon.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_49.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_48.md",
+    "Books/Juego de tronos/Notes/Ubicaciones/El Muro.md",
+    "Books/Juego de tronos/Notes/Personajens/Robert Arryn.md",
+    "Books/Juego de tronos/Notes/Ubicaciones/Casa Arryn.md",
+    "Tywin Lannister.md",
+    "Joffrey Lannister Bareathon.md",
+    "Books/Juego de tronos/Notes/Personajens/Tommen Lannister Bareathon.md",
+    "Books/Juego de tronos/Notes/Familias/Casa Lannister.md",
+    "Books/Juego de tronos/Notes/Personajens/Jon Arryn.md",
+    "Books/Juego de tronos/Notes/Personajens/Lysa Tully.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_47.md",
+    "Books/Juego de tronos/Notes/Personajens/Rhaegar Targaryen.md",
+    "Books/Juego de tronos/Notes/Personajens/Howland Reed.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_46.md",
     "Books/Juego de tronos/Notes/Personajens/Rickon Stark.md",
     "Books/Juego de tronos/Notes/Personajens/Branden Stark.md",
     "Books/Juego de tronos/Notes/Personajens/Lyanna Stark.md",
-    "Books/Juego de tronos/Notes/Personajens/Robert Baratheon.md",
     "Books/Juego de tronos/Notes/Personajens/Brandon Stark.md",
-    "Books/Juego de tronos/Notes/Personajens/Benjen Stark.md",
-    "Books/Juego de tronos/Notes/Personajens/Arya Stark.md",
-    "Books/Juego de tronos/Notes/Personajens/Aerys II Targaryen.md",
-    "Books/Juego de tronos/Notes/Personajens/Aegon Targaryen.md",
-    "Books/Juego de tronos/Notes/Ubicaciones/Islas del Verano.md",
-    "Books/Juego de tronos/Notes/Personajens/Sandor Clegane.md",
-    "Books/Juego de tronos/Notes/Personajens/Lord Rickard Stark.md",
-    "Books/Juego de tronos/Notes/Personajens/Balon Greyjoy.md",
-    "Books/Juego de tronos/Notes/Vocabulario/alambre.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_43 EDDARD (1).md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_46.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_45.md",
-    "Books/Juego de tronos/Notes/Ubicaciones/Altojardín.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_44.md",
-    "Books/Juego de tronos/Notes/Ubicaciones/el Cuello.md",
-    "Books/Juego de tronos/Notes/Personajens/Cersei Lannister.md",
-    "Books/Juego de tronos/Notes/Historias/Revolta de Balon Greyjoy.md",
-    "Books/Juego de tronos/Notes/Familias/Casa Baratheon.md",
-    "Books/Juego de tronos/Notes/Personajens/Tyrion Lannister.md",
-    "Books/Juego de tronos/Notes/Personajens/Ser Jaime Lannister.md",
     "Books/abiertas/abiertas.pdf-0006-00.png",
     "Books/abiertas/abiertas.pdf-0005-02.png",
     "Books/abiertas/abiertas.pdf-0001-02.png",

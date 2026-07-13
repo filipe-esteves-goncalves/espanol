@@ -79,7 +79,121 @@ Todavía le parecía recordar su voz algunas veces.
 
 «Prométemelo —le había suplicado en una habitación que olía a sangre y a rosas 
 
-—. Prométemelo, Ned.» La fiebre le había arrebatado las fuerzas, y su voz era débil como un susurro, pero cuando Ned le dio su palabra el miedo desapareció de los ojos 
+—. Prométemelo, Ned.» La fiebre le había arrebatado las fuerzas, y su voz era débil como un susurro, pero cuando Ned le dio su palabra el miedo desapareció de los ojos de su hermana. Recordaba cómo le había sonreído, con cuánta  fuerza  le  había aferrado la mano mientras dejaba de resistirse a la muerte, cómo se le habían caído de entre los dedos los pétalos de rosa, negros y marchitos. Después de aquello, ya no recordaba nada. Lo habían encontrado muy quieto, mudo de  dolor,  abrazado  a Lyanna. [[Howland Reed]], el menudo [^7]lacustre, había desentrelazado las manos de los hermanos. Ned no recordaba nada de aquello. 
+
+—Le traigo flores siempre que puedo —dijo—. A Lyanna... le gustaban las flores. 
+
+—Juré matar a [[Rhaegar Targaryen|Rhaegar]] por esto —dijo el Rey después de tocar la mejilla de la estatua y acariciar la piedra áspera como si ésta tuviera vida. 
+
+—Y lo hicisteis —señaló Ned. 
+
+—Sólo una vez —dijo Robert con amargura. 
+
+Se habían enfrentado en el vado del Tridente, en el centro mismo de la batalla, Robert con su maza y su enorme yelmo astado, el príncipe  Targaryen  con  su armadura negra. Llevaba en la coraza del pecho el dragón de tres cabezas de su Casa, todo recubierto de rubíes que refulgían a la luz del sol. Las aguas del Tridente enrojecieron en torno a los cascos de sus corceles mientras ellos cruzaban las armas una y otra vez, hasta que por último un golpe de la maza de Robert destrozó el dragón y el pecho que había debajo. Cuando Ned llegó al lugar, Rhaegar yacía ya muerto en el río, y hombres de ambos ejércitos se zambullían en las aguas turbias para buscar los rubíes que se habían desprendido de la armadura. 
+
+—Lo mato cada noche en mis sueños —admitió Robert—. Pero un millar de muertes siguen siendo menos de lo que merece. 
+
+Ned no pudo disentir. 
+
+—Tenemos que regresar, Alteza —señaló al final—. Vuestra esposa os está esperando. 
+
+—Los Otros se lleven a mi esposa —murmuró Robert con amargura. Pero, pese a todo, echó a andar con pasos pesados por donde habían venido—. Por cierto, si me sigues tratando con tanta formalidad, haré que te corten la cabeza y la claven en una pica. Entre nosotros hay mucho más que esas tonterías. 
+
+—No lo he olvidado —replicó Ned con tranquilidad. Al ver que el rey no decía nada, siguió hablando—. Dime qué le pasó a [[Jon Arryn|Jon]]. 
+
+—Jamás había visto a nadie enfermar tan deprisa —dijo Robert sacudiendo la cabeza—. Organizamos un torneo para celebrar el día del nombre de mi hijo. Si hubieras visto a Jon aquel día, habrías pensado que iba a vivir eternamente. Dos semanas después estaba muerto. La enfermedad pareció inflamarle las entrañas. Lo abrasó por dentro. —Se detuvo junto a una columna, ante la  tumba  de  un  Stark muerto mucho tiempo atrás—. Yo amaba a ese anciano. 
+
+—Lo sé. Yo también. —Ned hizo una pausa—. Catelyn teme por su hermana. ¿Qué tal lleva [[Lysa Tully]] la tragedia? 
+
+—La verdad es que no muy bien —admitió Robert después de fruncir los labios con amargura—. Creo que la pérdida de Jon la ha enloquecido, Ned. Se ha llevado al chico de vuelta al Nido de Águilas. Es lo contrario de lo que le dije. Yo quería que se criara como pupilo de [[Tywin Lannister ]]en Roca Casterly. Jon no tenía hermanos, y el chiquillo era su único hijo. ¿Cómo iba a permitir yo que lo educaran sólo mujeres? 
+
+Ned preferiría confiar un niño a los cuidados de una víbora que a Lord Tywin, pero no quiso decirlo. Algunas heridas no llegan a cerrarse jamás, y sangran de nuevo a la menor mención. 
+
+—La esposa ha perdido al marido —dijo con cautela—. Tal vez la madre tenga miedo de perder al hijo. Es un niño muy pequeño. 
+
+—Tiene seis años, es débil y enfermizo, y ahora es el señor del Nido de Águilas. Que los dioses nos amparen. Lord Tywin nunca ha tenido  un  pupilo.  Para  Lysa debería ser un honor. La de Lannister es una Casa grande y noble. Pero no quiso ni hablar del tema. Se marchó en plena noche, sin siquiera pedir mi venia. Cersei se puso como una fiera. —Suspiró hondo—. El niño lleva  mi  nombre,  ¿lo  sabías? Robert Arryn. Juré protegerlo. ¿Cómo lo voy a hacer si su madre se lo lleva a escondidas? 
+
+—Si quieres lo adoptaré yo como pupilo —propuso Ned—. Lysa daría su consentimiento. Catelyn y ella estaban muy unidas cuando eran niñas, y también ella puede vivir aquí si quiere. 
+
+—Es una oferta muy generosa, amigo mío —dijo el rey—. Pero llega tarde. Lord Tywin  ya ha dado su consentimiento. Dejar al chico como pupilo de cualquier otro sería una afrenta. 
+
+—Me preocupa más el bienestar de mi sobrino que el orgullo de un Lannister. 
+
+—Eso es porque no duermes cada noche con una Lannister —rió Robert, con una carcajada que resonó entre las tumbas y despertó ecos en la bóveda del techo. Su sonrisa era un relámpago de dientes blancos en la inmensa espesura de la barba negra 
+
+—. Ay, Ned —añadió—, sigues siendo demasiado serio.  —Rodeó  los  hombros  de Ned con un brazo inmenso—. Había planeado esperar unos días antes de  hablar contigo, pero ya veo que no hará falta. Vamos a dar un paseo. 
+
+Caminaron entre las columnas. Los ojos ciegos de piedra parecían seguirlos a su paso. El rey mantuvo el brazo sobre los hombros de Ned. 
+
+—Supongo que te preguntarás por qué he venido a Invernalia después de tanto tiempo —continuó Robert. 
+
+—Sin duda por el placer que te produce estar conmigo —dijo Ned a la [^8]ligera. Lo [^9]sospechaba, pero prefirió no decir lo que le pasaba por la cabeza—. Y también está [[El Muro]]. Tienes que ir a visitarlo, Alteza, debes recorrer sus almenas y hablar con los hombres que lo defienden. La Guardia de la Noche no es ni una sombra de lo que fue. Benjen dice que... 
+
+—Ya me figuro que sabré muy pronto lo que dice tu hermano —lo interrumpió Robert—. El Muro lleva en pie... ¿Cuánto? ¿Ocho mil años? Puede esperar unos días más. Tengo  problemas más apremiantes. Corren tiempos difíciles. Necesito hombres de confianza a mi lado. Hombres como Jon Arryn. Me sirvió como señor del Nido de Águilas, Guardián del Oriente y Mano del Rey. No será fácil encontrar quien lo reemplace. 
+
+—Su hijo... —empezó Ned. 
+
+—Su hijo heredará el Nido de Águilas con todos los ingresos que eso conlleva — replicó Robert bruscamente—. Nada más. 
+
+Aquello tomó a Ned por sorpresa. Se detuvo boquiabierto, y se volvió para mirar a su rey. No pudo contener las palabras que salieron de sus labios. 
+
+—Los Arryn han sido siempre los Guardianes del Oriente. El título va con los dominios. 
+
+—Es posible que, cuando sea mayor de edad, le devuelva ese honor —dijo Robert 
+
+—. Tengo  este año y el siguiente para pensármelo. Pero un niño de seis años no me vale como jefe guerrero, Ned. 
+
+—En época de paz el título no es más que un honor. Deja que el chico lo ostente. Aunque sólo sea en memoria de su padre. Eso se lo debes a Jon por sus servicios, qué menos. 
+
+—Los servicios que me prestó Jon eran su deber para con su rey y señor. —El rey no parecía satisfecho. Quitó el brazo de los hombros de Ned—.  No  soy  ningún ingrato, Ned. Tú lo sabes mejor que nadie. Pero el hijo no es como el padre. Un niño no puede defender todo el oriente. —Su tono se suavizó—. Bueno, ya basta del tema. Tengo cosas más importantes que comentar, y no pienso discutir contigo. —Robert agarró a Ned por el codo—. Te necesito, Ned. 
+
+—Siempre a tus órdenes, Alteza. Siempre. —Era lo que tenía que decir, y lo dijo, temiendo lo que venía a continuación. 
+
+Robert no dio señas de haberlo oído. 
+
+—Aquellos años que pasamos en el Nido de Águilas... Dioses, fueron buenos tiempos, ¿eh? Quiero que vuelvas a estar a mi lado, Ned. Te necesito en Desembarco del Rey, no aquí, en el fin del mundo, donde no le sirves de nada a nadie. —Robert clavó la vista en la oscuridad, tan melancólico como un Stark durante un momento—. Te lo juro, sentarse en un trono es mil veces más duro que conquistarlo. La ley es un asunto tedioso y contar calderilla aún más. Y los súbditos... siempre hay súbditos, siempre, y todos quieren verme. Me tengo que sentar en esa maldita silla de hierro y escuchar sus quejas hasta que se me queda la mente en blanco y el culo en carne viva. Todos quieren algo, dinero, o tierras, o justicia. Y las mentiras que me cuentan... ni te imaginas. Y las damas y caballeros de mi corte son iguales. Estoy  rodeado  de imbéciles y aduladores. Es como para volverse loco, Ned. La mitad de ellos no se atreven a decirme la verdad, y la otra mitad no la sabe. Hay noches en que deseo que nos hubieran derrotado en el Tridente. Bueno, no, no es en serio, pero... 
+
+—Te comprendo —dijo Ned con voz amable. 
+
+—Lo sé —dijo Robert mirándolo—. Pero eres el único, amigo mío. —Sonrió—. Lord Eddard Stark, te nombro Mano del Rey. 
+
+Ned se dejó caer sobre una rodilla. La oferta no le sorprendía. Si no era para eso, 
+
+¿qué objetivo tenía el viaje de Robert? La Mano del Rey era el segundo hombre más poderoso de los Siete Reinos. Hablaba con la voz del rey, tenía el mando de  los ejércitos del rey, y redactaba las leyes del rey. En ocasiones incluso se sentaba en el Trono de Hierro para impartir la justicia del rey, cuando éste  estaba  ausente,  o enfermo, o indispuesto por cualquier motivo. Robert estaba poniendo en sus manos una responsabilidad del tamaño del mismísimo reino. 
+
+Era la última cosa en el mundo que Ned deseaba. 
+
+—Alteza —dijo—, no soy digno de ese honor. 
+
+—Si quisiera concederte algún honor —gruñó Robert impaciente, pero de buen humor—, permitiría que te retirases. Mi intención es que controles el reino y pelees en las guerras mientras yo me dedico a comer, a beber y a acostarme con chicas; tres actividades que me llevarán pronto a la tumba. —Se dio una palmada en la barriga y sonrió—. ¿Sabes qué se dice del rey y su Mano? 
+
+—Lo que el rey sueña, la Mano lo crea. —Ned lo sabía. 
+
+—Una vez me llevé a la cama a una pescadera que me contó que el pueblo llano tiene una versión mejor del dicho: «El Rey come y la Mano limpia la mierda». 
+
+Echó la cabeza hacia atrás en una estruendosa carcajada. Los ecos resonaron en la oscuridad, y los muertos de Invernalia parecieron mirar a los dos hombres con ojos fríos y reprobatorios. 
+
+Por fin las carcajadas cesaron. Ned seguía con una rodilla hincada en el suelo, mirando hacia arriba. 
+
+—Por los dioses, Ned —se quejó el rey—. Al menos podrías sonreír. 
+
+—Dice la voz popular que aquí hace tanto frío en invierno que a uno se le congela la risa en la garganta y lo ahoga —dijo Ned con tono neutro—. Quizá por eso los Stark no tenemos mucho sentido del humor. 
+
+—Ven conmigo al sur y te enseñaré a reír de nuevo —prometió el rey—. Me ayudaste a conseguir este maldito trono, ahora ayúdame  a  conservarlo.  Nuestro destino era gobernar juntos. De no ser por la muerte de Lyanna habríamos sido parientes, nos uniría la sangre, no sólo el afecto. Pero no es demasiado tarde. Tengo un hijo, y tú una hija. Mi Joff y tu Sansa unirán nuestras casas, como en el pasado quisimos hacer Lyanna y yo. 
+
+—Sansa no tiene más que once años. —Aquella oferta sí  que  lo  había sorprendido. 
+
+—Edad suficiente para prometerse —dijo Robert agitando una mano en gesto impaciente—. Lo del matrimonio puede esperar unos años.  —El  rey  sonrió—. Maldita sea, ponte de pie y di que sí. 
+
+—Nada me sería más grato, Alteza —respondió  Ned.  Titubeó  un  instante—. Estos honores son tan inesperados... ¿te importa si medito un poco antes de responderte? Tengo que hablar con mi esposa... 
+
+—Claro, claro, díselo a Catelyn, consúltalo con la almohada si quieres. —El Rey palmeó a Ned en el hombro y lo ayudó a ponerse en pie, aunque le costó un esfuerzo 
+
+—. Pero no me hagas esperar demasiado. No tengo mucha paciencia. 
+
+Durante un momento, un presentimiento oscuro y ominoso nubló la mente de Eddard Stark. Invernalia era su lugar en el mundo, su vida estaba en el norte. Contempló las figuras de piedra que lo rodeaban, y respiró  hondo  en  el  silencio gélido de la cripta. Sentía los ojos de los muertos clavados en él. Sabía que lo estaban escuchando. Y se acercaba el invierno. 
+
+
 
 ----------
 [^1]: áspera
@@ -88,3 +202,9 @@ Todavía le parecía recordar su voz algunas veces.
 [^4]: carvalho
 [^5]: brilhando
 [^6]: colo
+
+[^7]: Pântano
+
+[^8]: em tom leve
+
+[^9]: suspeitava

@@ -9,3 +9,12 @@ Lucía una barba negra y tan basta como el alambre, que por lo menos servía par
 
 
 [[Lyanna Stark|Lyanna]] sólo llegó a cumplir los dieciséis años, era una niña mujer de belleza insuperable. Ned la había querido mucho. Robert, todavía más; estaba destinada a ser su esposa. 
+
+
+Citas:
+
+Se dio una palmada en la barriga y sonrió—. ¿Sabes qué se dice del rey y su Mano? 
+
+—Lo que el rey sueña, la Mano lo crea. —Ned lo sabía. 
+
+—Una vez me llevé a la cama a una pescadera que me contó que el pueblo llano tiene una versión mejor del dicho: «El Rey come y la Mano limpia la mierda». 

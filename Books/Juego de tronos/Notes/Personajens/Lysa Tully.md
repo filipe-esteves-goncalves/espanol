@@ -1,0 +1,2 @@
+
+Creo que la pérdida de Jon la ha enloquecido, Ned. Se ha llevado al chico de vuelta al Nido de Águilas. Es lo contrario de lo que le dije. Yo quería que se criara como pupilo de Tywin Lannister en Roca Casterly. Jon no tenía hermanos, y el chiquillo era su único hijo. ¿Cómo iba a permitir yo que lo educaran sólo mujeres? 
