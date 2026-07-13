@@ -2,6 +2,6 @@
 | ------------------------ | ------------- | --------------- |
 | [[Jon Nieve]]            | Fantasma <br> | (Ghost)         |
 | [[Sansa]]                | Dama <br>     | (Lady)          |
-| [[Arya]]                 | Nymeria       | (Women warrior) |
-| [[Bran Stark\| Brandon]] |               |                 |
-| [[Rickon]]               | Peludo        |                 |
+| [[Arya Stark]]                 | Nymeria       | (Women warrior) |
+| [[Brandon Stark\| Brandon]] |               |                 |
+| [[Rickon Stark]]               | Peludo        |                 |

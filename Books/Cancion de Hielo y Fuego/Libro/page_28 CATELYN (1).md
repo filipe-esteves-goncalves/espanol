@@ -25,7 +25,7 @@ Catelyn encontró a su esposo sentado en una roca cubierta de musgo, bajo las ra
 
 Siempre le preguntaba lo mismo. 
 
-—En la cocina, discutiendo cómo van a llamar a los cachorros. —Se quitó la capa, la tendió sobre el mantillo del bosque, y se sentó con la espalda apoyada contra el arciano—. Arya adora a la suya y Sansa también está encantada, pero [[Rickon]] no lo [^1]termina de ver claro. 
+—En la cocina, discutiendo cómo van a llamar a los cachorros. —Se quitó la capa, la tendió sobre el mantillo del bosque, y se sentó con la espalda apoyada contra el arciano—. Arya adora a la suya y Sansa también está encantada, pero [[Rickon Stark]] no lo [^1]termina de ver claro. 
 
 —¿Tiene miedo? —preguntó Ned. 
 
