@@ -202,9 +202,6 @@ Durante un momento, un presentimiento oscuro y ominoso nubló la mente de Eddard
 [^4]: carvalho
 [^5]: brilhando
 [^6]: colo
-
 [^7]: Pântano
-
 [^8]: em tom leve
-
 [^9]: suspeitava

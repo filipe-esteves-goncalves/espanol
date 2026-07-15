@@ -13,138 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Cancion de Hielo y Fuego/Libro/page_696.md",
+                "file": "Books/Cancion de Hielo y Fuego/Libro/page_52 JON (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "page_696"
+              "title": "page_52 JON (1)"
             }
           },
           {
-            "id": "c30067952078451a",
+            "id": "749c0bda181b25de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Juego de tronos/Notes/Ubicaciones/El Muro.md",
+                "file": "Books/Juego de tronos/Notes/Personajens/Tyrion Lannister.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El Muro"
+              "title": "Tyrion Lannister"
             }
           },
           {
-            "id": "4bc5202316b942e4",
+            "id": "70435be199e7385c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tywin Lannister.md",
+                "file": "Books/Juego de tronos/Notes/Familias/Guardia de la Noche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tywin Lannister"
+              "title": "Guardia de la Noche"
             }
           },
           {
-            "id": "5c71690d29e84093",
+            "id": "a6cdf0797d23d3f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Juego de tronos/Notes/Personajens/Tommen Lannister Bareathon.md",
+                "file": "Daeren Targaryen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tommen Lannister Bareathon"
+              "title": "Daeren Targaryen"
             }
           },
           {
-            "id": "a309bfe537b71ac5",
+            "id": "97659cbe59a8d0ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joffrey Lannister Bareathon.md",
+                "file": "Books/Juego de tronos/Notes/Personajens/Hullen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hullen"
+            }
+          },
+          {
+            "id": "0a081702a250ee8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Juego de tronos/Notes/Personajens/Tyrion Lannister.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tyrion Lannister"
+            }
+          },
+          {
+            "id": "ae3c6f226543f8f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Juego de tronos/Notes/Personajens/Joffrey Lannister Bareathon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Joffrey Lannister Bareathon"
-            }
-          },
-          {
-            "id": "e3433f70eb4f3bd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Juego de tronos/Notes/Personajens/Rickon Stark.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rickon Stark"
-            }
-          },
-          {
-            "id": "fc35950229f00f16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Juego de tronos/Notes/Personajens/Robert Arryn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Robert Arryn"
-            }
-          },
-          {
-            "id": "c752eaabb19dff92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Juego de tronos/Notes/Personajens/Robert Baratheon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Robert Baratheon"
-            }
-          },
-          {
-            "id": "0da4588f09f07329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Juego de tronos/Notes/Familias/Casa Stark.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Casa Stark"
-            }
-          },
-          {
-            "id": "59570d9d5724c4fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Juego de tronos/Notes/Sansa Stark.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sansa Stark"
             }
           }
         ]
@@ -320,34 +278,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9af5e037a098d6c",
+  "active": "3e71339b325d0b30",
   "lastOpenFiles": [
+    "Books/Cancion de Hielo y Fuego/Libro/page_59.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_52 JON (1).md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_58.md",
+    "Books/Juego de tronos/Notes/Personajens/Tyrion Lannister.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_57.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_56.md",
+    "Books/Juego de tronos/Notes/Familias/Guardia de la Noche.md",
+    "Daeren Targaryen.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_55.md",
+    "Books/Juego de tronos/Notes/Personajens/Hullen.md",
+    "Books/Juego de tronos/Notes/Personajens/Benjen Stark.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_54.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_53.md",
+    "Books/Juego de tronos/Notes/Personajens/Ser Jaime Lannister.md",
+    "Books/Juego de tronos/Notes/Personajens/Joffrey Lannister Bareathon.md",
+    "Books/Juego de tronos/Notes/Personajens/Myrcella Lannister.md",
+    "Books/Juego de tronos/Notes/Personajens/Tommen Lannister Bareathon.md",
+    "Books/Juego de tronos/Notes/Personajens/Rickon Stark.md",
+    "Books/Juego de tronos/Notes/Personajens/Robert Arryn.md",
+    "Books/Juego de tronos/Notes/Sansa Stark.md",
+    "Books/Juego de tronos/Notes/Familias/Casa Stark.md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_43 EDDARD (1).md",
+    "Books/Cancion de Hielo y Fuego/Libro/page_696.md",
     "Books/Cancion de Hielo y Fuego/Libro/page_689 DAENERYS (10).md",
     "Books/Cancion de Hielo y Fuego/Libro/page_719.md",
     "Books/Cancion de Hielo y Fuego/Libro/page_718.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_717.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_716.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_715.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_714.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_713.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_712.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_697 APÉNDICE.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_701.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_700.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_699.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_698.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_696.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_695.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_694.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_693.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_692.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_691.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_690.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_688.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_687.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_686.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_685.md",
-    "Books/Cancion de Hielo y Fuego/Libro/page_684.md",
     "Books/abiertas/abiertas.pdf-0006-00.png",
     "Books/abiertas/abiertas.pdf-0005-02.png",
     "Books/abiertas/abiertas.pdf-0001-02.png",

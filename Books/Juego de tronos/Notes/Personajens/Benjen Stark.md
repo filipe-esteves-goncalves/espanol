@@ -1,0 +1,1 @@
+Su tío era un hombre de rasgos [^15]afilados, duros como la roca, pero los ojos azul grisáceo siempre parecían sonreír. Iba invariablemente vestido de negro porque pertenecía a la Guardia de la Noche. Aquella velada sus ropas eran de suntuoso
