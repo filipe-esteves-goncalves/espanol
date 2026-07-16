@@ -160,7 +160,7 @@ Bran alzó la vista hacia su padre, implorante, pero sólo  encontró  un  ceño
 
 —Lo que dice Hullen es verdad, hijo. Es mejor una muerte rápida que agonizar de frío y hambre. 
 
-—La perra de [[Ser Rodrik abc|Ser Rodrik]] parió otra vez la semana pasada —dijo Robb, que se resistía, testarudo—. Fue una camada pequeña, sólo vivieron dos cachorros. Tendrá leche de sobra. 
+—La perra de [[Ser Rodrik|Ser Rodrik]] parió otra vez la semana pasada —dijo Robb, que se resistía, testarudo—. Fue una camada pequeña, sólo vivieron dos cachorros. Tendrá leche de sobra. 
 
 —Los matará en cuanto intenten mamar. 
 

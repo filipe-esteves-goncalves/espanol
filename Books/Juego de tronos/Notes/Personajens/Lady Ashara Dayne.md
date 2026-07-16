@@ -1,0 +1,1 @@
+alta, rubia, con ojos hechiceros color violeta.
