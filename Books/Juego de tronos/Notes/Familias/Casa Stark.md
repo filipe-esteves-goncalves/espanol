@@ -14,14 +14,14 @@ Invernalia (Winterfell)
 | [[Lord Rickard Stark]] |               | Lord<br>El padre de Ned<br>                 |                                                           |                   |                         |
 | Eddars<br>             | [[Ned Stark]] | Lord<br>señor de Invernalia                 | Guardián del Norte<br>Mano del Rey<br>señor de Invernalia | [[Catelyn Tully]] |                         |
 | [[Lyanna Stark]]       |               | Hernana de Ned<br>Mujer de Robert Baratheon |                                                           |                   |                         |
-| Benjen                 | Ben           | Hernano de Ned<br>Tio Ben                   |                                                           |                   |                         |
+| [[Benjen Stark]]       | Uncle Ben     | Hernano de Ned<br>Tio Ben                   |                                                           |                   |                         |
 | [[Branden Stark]]      |               | Hermano de Ned                              |                                                           |                   |                         |
-|                        | Robb          | Hijo de Ned                                 |                                                           |                   | Viento Gris             |
+| [[Robb stark]]         |               | Hijo de Ned                                 |                                                           |                   | Viento Gris             |
 | [[Jon Nieve]]          | Jon           | Hijo de Ned                                 |                                                           |                   | Fantasma <br>(Ghost)    |
-| [[Sansa Stark]]              |               | Hija de Ned                                 |                                                           |                   | Dama <br>(Lady)         |
+| [[Sansa Stark]]        |               | Hija de Ned                                 |                                                           |                   | Dama <br>(Lady)         |
 | [[Arya Stark]]         |               | Hija de Ned                                 |                                                           |                   | Nymeria (Women warrior) |
 | [[Brandon Stark]]      | Bran          | Hijo de Ned                                 |                                                           |                   |                         |
-| [[Rickon Stark]]             |               | Hijo de Ned                                 |                                                           |                   | Peludo                  |
+| [[Rickon Stark]]       |               | Hijo de Ned                                 |                                                           |                   | Peludo                  |
 
 Maestre Luwin
 Desmond
@@ -37,4 +37,4 @@ Desmond
 - Hodor
 
 
-![[Arbol Stark.canvas]]
+[[Arbol Stark.canvas]]
