@@ -1,0 +1,1 @@
+La [[septa Mordane]] alzó la vista. Tenía el rostro huesudo, ojos perspicaces y una boca de labios finos que parecían hechos para fruncirse. Ahora estaban fruncidos. 

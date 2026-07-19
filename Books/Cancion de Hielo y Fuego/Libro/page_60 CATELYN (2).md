@@ -192,7 +192,7 @@ Sansa brillaría con luz propia en la corte, se dijo Catelyn para sus adentros, 
 
 —Sí —dijo—. Pero por favor,  Ned, por el amor que me profesas, deja que Bran se quede aquí, en Invernalia. No tiene más que siete años. 
 
-—Yo tenía ocho cuando mi padre me envió como pupilo al Nido de Águilas — respondió Ned—. [[Ser Rodrik]] me ha contado que Robb y el príncipe Joffrey no simpatizan. Eso no es bueno. [[Brandon Stark|Bran]] puede tender un puente entre ellos. Es un niño dulce, con la risa fácil, se hace querer. Que crezca con los pequeños príncipes, que se haga amigo de ellos igual que Robert y yo nos hicimos amigos. Así, nuestra Casa estará a salvo. 
+—Yo tenía ocho cuando mi padre me envió como pupilo al Nido de Águilas — respondió Ned—. [[Ser Rodrik Cassel]] me ha contado que Robb y el príncipe Joffrey no simpatizan. Eso no es bueno. [[Brandon Stark|Bran]] puede tender un puente entre ellos. Es un niño dulce, con la risa fácil, se hace querer. Que crezca con los pequeños príncipes, que se haga amigo de ellos igual que Robert y yo nos hicimos amigos. Así, nuestra Casa estará a salvo. 
 
 Tenía razón. Catelyn lo sabía. Pero eso no lo hacía menos doloroso. Los iba a perder a los cuatro, a Ned, a las dos niñas y a su  querido  Bran.  Sólo  le quedarían Robb y el pequeño Rickon. Ya  sentía el peso de la soledad. Invernalia era un lugar tan, tan vasto... 
 
